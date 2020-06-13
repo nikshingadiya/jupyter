@@ -10,8 +10,7 @@
 # In[29]:
 
 
-x = input("please enter the string")
-
+x = input("please enter the string\n")
 c = ''
 for i in x:
     if(i.islower()):
@@ -22,4 +21,5 @@ for i in x:
         c=c+i
 
 print(c)
+n=input("press and close the window\n")
 # In[18]:
