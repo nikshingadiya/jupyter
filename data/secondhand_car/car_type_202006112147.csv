@@ -1,0 +1,16 @@
+"car_type_id","car_type_name","car_type_name_translated"
+1,Alváz szimpla kabin,Single Cab Chassis
+2,Cabrio,Cabrio
+3,Coupe,Coupe
+4,Duplakabinos alváz,Double Cab Chassis
+5,Egyterű,Minivan
+6,Ferdehátú,Hatchback
+7,Félig ablakos,Supermini van
+8,Kisbusz,Minibus
+9,Kombi,Estate
+10,Körbe üvegezett,Supermini van
+11,Pickup,Pickup
+12,Sedan,Sedan
+13,Városi terepjáró (crossover),SUV
+14,Zárt,Closed
+15,na,NA

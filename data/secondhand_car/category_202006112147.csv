@@ -1,0 +1,11 @@
+"category_id","category_name","category_name_translated"
+1,Alsó középkategória,C-Segment
+2,Egyterű,M-Segment
+3,Felső középkategória,D-Segment
+4,Kisautók,B-Segment
+5,Kishaszongépjármű,Utility
+6,Középkategória,E-Segment
+7,Miniautók,A-Segment
+8,Nagykocsi,F-Segment
+9,Terepjáró,J-Segment
+10,na,NA
