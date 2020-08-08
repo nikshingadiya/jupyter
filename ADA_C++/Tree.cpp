@@ -1,70 +1,74 @@
 #include<iostream>
 using namespace std;
-class node
+class Node
 {
 	public:
-	node *left=NULL;
-	int data;
-	node *right=NULL;
+	Node *left=NULL;
+    int data;
+	Node *right=NULL;
 	public:
-    node(int key){
+    Node(int key){
         data=key;
+        Node *left=NULL;
+        Node *right=NULL;
 		
 	}
 	
 };
-void display(node *root);
+void inorder(Node *root);
 
-void display(node *root) 
+void inorder(Node *root) 
 { 
-    if (root==NULL) 
-    { 
-        return;
-    } 
-   
-    display(root->left); 
-    cout <<"display= "<<root->data <<endl; 
-    display(root->right); 
+    if(root == NULL)
+            return;
+        
+        //First recur on left subtree 
+        inorder(root->left);
+        //Then read the data of child
+        cout << root->data << " ";
+        // Recur on the right subtree
+        inorder(root->right);
 } 
-void insert(node *root, int key)
-{
-
-	if(root->left==NULL)
-	{
-		root->left=new node(key) ;
-		cout<<"left="<<key<<endl;
-		
-		root==NULL;
-		return;
-	}
-    else if(root->right==NULL)
-	{
-		root->right=new node(key);
-		cout<<"right="<<key<<endl;
-
-		root=NULL;
-		return;
-	}
-	insert(root->right,key);
+Node* insert(Node* root, int data) {
+        if(root == NULL){
+            return new Node(data);
+        }
+     else{
+            Node* cur;
+            if(data <= root->data) {
+                cur = insert(root->left, data);
+                root->left = cur;
+            }
+            else {
+                cur = insert(root->right, data);
+                root->right = cur;
+            }
+           
+        return root;
+     }
+    }
 
 	
 
-}
-int main()
-{
-  int a[]={2,3,4,5,6,8,9};
-  node *head;
-  
-  node *root= new node(a[0]);
-  head=root;
-  for(int i=1; i<sizeof(a)/sizeof(a[0]); i++)
-  {
-  
-  insert(head,a[i]);
- 
-  }
- 
- 
-  display(head);
 
+
+
+	
+
+
+
+int main(){
+    Node Tree(0);
+    Node* root = NULL;
+    //Number of nodes to be inserted
+    int t;
+    cin>>t;
+    while(t--){
+        int data;
+        cin>>data;
+        root=insert(root,data);
+        
+    }
+    inorder(root);
 }
+
