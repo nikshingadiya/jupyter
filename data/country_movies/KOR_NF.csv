@@ -1,0 +1,49 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Bad Boys for Life,USA,Action,2020-01-16,False,74%,77%,KOR,https://flixpatrol.com/title/bad-boys-for-life,ASI
+37,TV Show,Stranger,South Korea,Crime,2017-06-10,False,86%,,KOR,https://flixpatrol.com/title/stranger-2017,ASI
+36,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,KOR,https://flixpatrol.com/title/365-days,ASI
+36,TV Show,Stranger,South Korea,Crime,2017-06-10,False,86%,,KOR,https://flixpatrol.com/title/stranger-2017,ASI
+35,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,KOR,https://flixpatrol.com/title/365-days,ASI
+35,TV Show,Stranger,South Korea,Crime,2017-06-10,False,86%,,KOR,https://flixpatrol.com/title/stranger-2017,ASI
+34,Movie,Hitman: Agent Jun,,,2020-01-22,False,,,KOR,https://flixpatrol.com/title/hitman-agent-jun,ASI
+34,TV Show,Stranger,South Korea,Crime,2017-06-10,False,86%,,KOR,https://flixpatrol.com/title/stranger-2017,ASI
+33,Movie,Man of Men,,,2019-10-02,False,,,KOR,https://flixpatrol.com/title/man-of-men,ASI
+33,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+32,Movie,Man of Men,,,2019-10-02,False,,,KOR,https://flixpatrol.com/title/man-of-men,ASI
+32,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,KOR,https://flixpatrol.com/title/the-kissing-booth-2,ASI
+31,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,KOR,https://flixpatrol.com/title/the-old-guard,ASI
+30,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,KOR,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+28,Movie,Safe House,USA,Thriller,2012-02-10,False,68%,53%,KOR,https://flixpatrol.com/title/safe-house,ASI
+28,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+27,Movie,Jumanji: The Next Level,USA,Adventure,2019-12-04,False,70%,67%,KOR,https://flixpatrol.com/title/jumanji-the-next-level,ASI
+27,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+26,Movie,Central Intelligence,USA,Action,2016-06-15,False,64%,69%,KOR,https://flixpatrol.com/title/central-intelligence,ASI
+26,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,KOR,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+25,Movie,Central Intelligence,USA,Action,2016-06-15,False,64%,69%,KOR,https://flixpatrol.com/title/central-intelligence,ASI
+25,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+24,Movie,Honest Candidate,South Korea,,2020-02-12,False,,,KOR,https://flixpatrol.com/title/honest-candidate,ASI
+24,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+23,Movie,Honest Candidate,South Korea,,2020-02-12,False,,,KOR,https://flixpatrol.com/title/honest-candidate,ASI
+23,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+22,Movie,Honest Candidate,South Korea,,2020-02-12,False,,,KOR,https://flixpatrol.com/title/honest-candidate,ASI
+22,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+21,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,KOR,https://flixpatrol.com/title/extraction-2020,ASI
+21,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+20,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,KOR,https://flixpatrol.com/title/extraction-2020,ASI
+20,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+19,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,KOR,https://flixpatrol.com/title/extraction-2020,ASI
+19,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+18,Movie,Time to Hunt,South Korea,Science Fiction,2020-04-23,True,63%,67%,KOR,https://flixpatrol.com/title/time-to-hunt,ASI
+18,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+17,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,KOR,https://flixpatrol.com/title/code-8,ASI
+17,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+16,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,KOR,https://flixpatrol.com/title/code-8,ASI
+16,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+15,Movie,Howls Moving Castle,Japan,Animated,2004-11-19,False,82%,,KOR,https://flixpatrol.com/title/howls-moving-castle,ASI
+15,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI
+14,Movie,Mr. Zoo: The Missing VIP,South Korea,,2020-01-22,False,57%,,KOR,https://flixpatrol.com/title/mr-zoo-the-missing-vip,ASI
+14,TV Show,Hospital Playlist,South Korea,Drama,2020-03-12,True,84%,,KOR,https://flixpatrol.com/title/hospital-playlist,ASI

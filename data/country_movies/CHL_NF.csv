@@ -1,0 +1,43 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,CHL,https://flixpatrol.com/title/the-emoji-movie,AME
+37,TV Show,Grey's Anatomy,USA,Drama,2005-03-27,False,76%,,CHL,https://flixpatrol.com/title/greys-anatomy,AME
+36,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,CHL,https://flixpatrol.com/title/the-emoji-movie,AME
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,CHL,https://flixpatrol.com/title/cobra-kai,AME
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,CHL,https://flixpatrol.com/title/the-sleepover,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,CHL,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,CHL,https://flixpatrol.com/title/project-power,AME
+34,TV Show,The Great Heist,,,2020-08-14,False,,,CHL,https://flixpatrol.com/title/the-great-heist,AME
+33,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,CHL,https://flixpatrol.com/title/wonder,AME
+33,TV Show,The Seven Deadly Sins,Japan,Animation,2014-10-05,True,82%,,CHL,https://flixpatrol.com/title/the-seven-deadly-sins,AME
+32,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,CHL,https://flixpatrol.com/title/wonder,AME
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,CHL,https://flixpatrol.com/title/locked-up,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,CHL,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,CHL,https://flixpatrol.com/title/dark-desire,AME
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,CHL,https://flixpatrol.com/title/milf-2018,AME
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,CHL,https://flixpatrol.com/title/dark-desire,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,CHL,https://flixpatrol.com/title/the-old-guard,AME
+29,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,CHL,https://flixpatrol.com/title/dark-desire,AME
+28,Movie,American Assassin,USA,Action,2017-09-14,False,70%,35%,CHL,https://flixpatrol.com/title/american-assassin,AME
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,CHL,https://flixpatrol.com/title/dark-2017,AME
+27,Movie,Baby Driver,USA,Action,2017-06-28,False,78%,92%,CHL,https://flixpatrol.com/title/baby-driver,AME
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,CHL,https://flixpatrol.com/title/dark-2017,AME
+26,Movie,Feel the Beat,USA,Comedy,2020-06-19,True,64%,46%,CHL,https://flixpatrol.com/title/feel-the-beat-2020,AME
+26,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,CHL,https://flixpatrol.com/title/dark-2017,AME
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,CHL,https://flixpatrol.com/title/365-days,AME
+25,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,CHL,https://flixpatrol.com/title/dark-2017,AME
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,CHL,https://flixpatrol.com/title/365-days,AME
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,CHL,https://flixpatrol.com/title/13-reasons-why,AME
+23,Movie,Grown Ups,USA,Comedy,2010-06-24,False,60%,10%,CHL,https://flixpatrol.com/title/grown-ups,AME
+23,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,CHL,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,AME
+22,Movie,Mujeres arriba,Chile,Comedy,2020-02-13,False,,,CHL,https://flixpatrol.com/title/mujeres-arriba,AME
+22,TV Show,Control Z,Mexico,Drama,2020-05-22,True,70%,67%,CHL,https://flixpatrol.com/title/control-z,AME
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,CHL,https://flixpatrol.com/title/the-wrong-missy,AME
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,CHL,https://flixpatrol.com/title/the-last-dance,AME
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,CHL,https://flixpatrol.com/title/the-wrong-missy,AME
+20,TV Show,Valeria,Spain,Drama,2020-05-08,True,58%,,CHL,https://flixpatrol.com/title/valeria,AME
+19,Movie,Space Jam,USA,Comedy,1996-11-15,False,63%,38%,CHL,https://flixpatrol.com/title/space-jam,AME
+19,TV Show,"Pablo Escobar, The Drug Lord",Colombia,Crime,2012-05-28,False,86%,,CHL,https://flixpatrol.com/title/pablo-escobar-the-drug-lord,AME
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,CHL,https://flixpatrol.com/title/extraction-2020,AME
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,CHL,https://flixpatrol.com/title/never-have-i-ever,AME
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,CHL,https://flixpatrol.com/title/extraction-2020,AME
+17,TV Show,The House of Flowers,Mexico,Drama,2018-08-10,True,80%,,CHL,https://flixpatrol.com/title/the-house-of-flowers,AME

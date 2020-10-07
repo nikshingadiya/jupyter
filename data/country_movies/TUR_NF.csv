@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Zengo,Turkey,Comedy,2020-03-06,False,26%,,TUR,https://flixpatrol.com/title/zengo,ASI
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,TUR,https://flixpatrol.com/title/lucifer,ASI
+36,Movie,Zengo,Turkey,Comedy,2020-03-06,False,26%,,TUR,https://flixpatrol.com/title/zengo,ASI
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,TUR,https://flixpatrol.com/title/lucifer,ASI
+35,Movie,Baba Parasi,Turkey,Comedy,2020-01-01,False,,,TUR,https://flixpatrol.com/title/baba-parasi,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,TUR,https://flixpatrol.com/title/lucifer,ASI
+34,Movie,Baba Parasi,Turkey,Comedy,2020-01-01,False,,,TUR,https://flixpatrol.com/title/baba-parasi,ASI
+34,TV Show,Behzat Ç.,Turkey,Crime,2010-09-19,False,,,TUR,https://flixpatrol.com/title/behzat-ç-bir-ankara-polisiyesi,ASI
+33,Movie,The Pocket Hercules Naim,Turkey,Drama,2019-11-22,False,86%,,TUR,https://flixpatrol.com/title/the-pocket-hercules-naim,ASI
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,TUR,https://flixpatrol.com/title/the-umbrella-academy,ASI
+32,Movie,Bayi Toplantisi,Turkey,Comedy,2020-02-20,False,48%,,TUR,https://flixpatrol.com/title/bayi-toplantisi,ASI
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,TUR,https://flixpatrol.com/title/the-umbrella-academy,ASI
+31,Movie,Bayi Toplantisi,Turkey,Comedy,2020-02-20,False,48%,,TUR,https://flixpatrol.com/title/bayi-toplantisi,ASI
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,TUR,https://flixpatrol.com/title/cursed-2020,ASI
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,TUR,https://flixpatrol.com/title/milf-2018,ASI
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,TUR,https://flixpatrol.com/title/cursed-2020,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,TUR,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,Exatlon Challenge,,,2020-07-03,False,,,TUR,https://flixpatrol.com/title/exatlon-challenge,ASI
+28,Movie,Eltilerin Savaşi,Turkey,Comedy,2020-01-31,False,60%,,TUR,https://flixpatrol.com/title/eltilerin-savaşi,ASI
+28,TV Show,Exatlon Challenge,,,2020-07-03,False,,,TUR,https://flixpatrol.com/title/exatlon-challenge,ASI
+27,Movie,Silence Is Welcome,Mexico,Drama,2017-03-15,False,46%,,TUR,https://flixpatrol.com/title/silence-is-welcome,ASI
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,TUR,https://flixpatrol.com/title/dark-2017,ASI
+26,Movie,One-Way to Tomorrow,Turkey,Comedy,2020-06-19,True,59%,,TUR,https://flixpatrol.com/title/one-way-to-tomorrow,ASI
+26,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,TUR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+25,Movie,Biz Böyleyiz,Turkey,Drama,2020-01-01,False,61%,,TUR,https://flixpatrol.com/title/biz-boyleyiz,ASI
+25,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,TUR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,TUR,https://flixpatrol.com/title/365-days,ASI
+24,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,TUR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+23,Movie,Overnight Republic,Turkey,Comedy,2017-04-20,False,59%,,TUR,https://flixpatrol.com/title/overnight-republic,ASI
+23,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,TUR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+22,Movie,No Way 2,Turkey,Comedy,2016-01-01,False,,,TUR,https://flixpatrol.com/title/no-way-2,ASI
+22,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,TUR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+21,Movie,Portrait of a Beauty,Turkey,Horror,2019-12-13,False,,,TUR,https://flixpatrol.com/title/portrait-of-a-beauty,ASI
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,TUR,https://flixpatrol.com/title/the-last-dance,ASI
+20,Movie,Spider-Man: Homecoming,USA,Superhero,2017-07-05,False,75%,92%,TUR,https://flixpatrol.com/title/spider-man-homecoming,ASI
+20,TV Show,Valeria,Spain,Drama,2020-05-08,True,58%,,TUR,https://flixpatrol.com/title/valeria,ASI
+19,Movie,You've Got Murder,Turkey,Crime,2019-10-25,False,71%,,TUR,https://flixpatrol.com/title/youve-got-murder,ASI
+19,TV Show,Love 101,Turkey,Comedy,2020-04-24,True,74%,,TUR,https://flixpatrol.com/title/love-101,ASI
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,TUR,https://flixpatrol.com/title/extraction-2020,ASI
+18,TV Show,Love 101,Turkey,Comedy,2020-04-24,True,74%,,TUR,https://flixpatrol.com/title/love-101,ASI
+17,Movie,Recep Ivedik 6,Turkey,Comedy,2019-11-07,False,28%,,TUR,https://flixpatrol.com/title/recep-ivedik-6,ASI
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,TUR,https://flixpatrol.com/title/too-hot-to-handle,ASI
+16,Movie,Recep Ivedik 6,Turkey,Comedy,2019-11-07,False,28%,,TUR,https://flixpatrol.com/title/recep-ivedik-6,ASI
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,TUR,https://flixpatrol.com/title/money-heist,ASI
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,TUR,https://flixpatrol.com/title/money-heist-the-phenomenon,ASI
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,TUR,https://flixpatrol.com/title/money-heist,ASI
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,TUR,https://flixpatrol.com/title/the-platform,ASI
+14,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,TUR,https://flixpatrol.com/title/freud,ASI
+13,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,TUR,https://flixpatrol.com/title/miracle-in-cell-no-7,ASI
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,TUR,https://flixpatrol.com/title/toy-boy-2019,ASI

@@ -1,0 +1,43 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Anna,France,Action,2019-06-20,False,66%,64%,PHL,https://flixpatrol.com/title/anna-2019,ASI
+37,TV Show,The World of the Married,,,2020-03-27,False,,,PHL,https://flixpatrol.com/title/the-world-of-the-married,ASI
+36,Movie,Pandemic,USA,,2016-02-26,False,46%,43%,PHL,https://flixpatrol.com/title/pandemic,ASI
+36,TV Show,The World of the Married,,,2020-03-27,False,,,PHL,https://flixpatrol.com/title/the-world-of-the-married,ASI
+35,Movie,Metamorphosis,,,2019-08-21,False,,,PHL,https://flixpatrol.com/title/metamorphosis-2019,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,PHL,https://flixpatrol.com/title/lucifer,ASI
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,PHL,https://flixpatrol.com/title/project-power,ASI
+34,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+33,Movie,Ocean's 8,USA,Crime,2018-06-08,False,62%,,PHL,https://flixpatrol.com/title/oceans-8,ASI
+33,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+32,Movie -- --,Once Before,,,Movie,False,,,PHL,https://flixpatrol.com/title/once-before,ASI
+32,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,PHL,https://flixpatrol.com/title/the-kissing-booth-2,ASI
+31,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,PHL,https://flixpatrol.com/title/the-old-guard,ASI
+30,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+29,Movie,Through Night and Day,,,2018-11-14,False,,,PHL,https://flixpatrol.com/title/through-night-and-day,ASI
+29,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+28,Movie,"On Vodka, Beers, and Regrets",,,2020-02-05,False,,,PHL,https://flixpatrol.com/title/on-vodka-beers-and-regrets,ASI
+28,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+27,Movie,Ordinary People,Philippines,Drama,2016-08-05,False,75%,,PHL,https://flixpatrol.com/title/ordinary-people-2016,ASI
+27,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+26,Movie,Jumanji: The Next Level,USA,Adventure,2019-12-04,False,70%,67%,PHL,https://flixpatrol.com/title/jumanji-the-next-level,ASI
+26,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,PHL,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+25,Movie,Sniper: Ultimate Kill,USA,Action,2017-10-03,False,56%,,PHL,https://flixpatrol.com/title/sniper-ultimate-kill,ASI
+25,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,PHL,https://flixpatrol.com/title/365-days,ASI
+24,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+23,Movie,Ghost Ship,USA,Horror,2002-10-22,False,55%,,PHL,https://flixpatrol.com/title/ghost-ship,ASI
+23,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+22,Movie,X-Men: Apocalypse,USA,Superhero,2016-05-18,False,72%,48%,PHL,https://flixpatrol.com/title/x-men-apocalypse,ASI
+22,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+21,Movie,Rampage,USA,,1987-09-01,False,64%,,PHL,https://flixpatrol.com/title/rampage,ASI
+21,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+20,Movie,The 15:17 to Paris,USA,Thriller,2018-02-02,False,50%,,PHL,https://flixpatrol.com/title/the-1517-to-paris,ASI
+20,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,PHL,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+19,Movie,The Angry Birds Movie 2,USA,Animated,2019-08-02,False,65%,73%,PHL,https://flixpatrol.com/title/the-angry-birds-movie-2,ASI
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,PHL,https://flixpatrol.com/title/the-last-dance,ASI
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,PHL,https://flixpatrol.com/title/extraction-2020,ASI
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,PHL,https://flixpatrol.com/title/never-have-i-ever,ASI
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,PHL,https://flixpatrol.com/title/extraction-2020,ASI
+17,TV Show,Outer Banks,USA,Mystery,2020-04-15,True,80%,70%,PHL,https://flixpatrol.com/title/outer-banks,ASI

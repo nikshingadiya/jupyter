@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,AUT,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,AUT,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,Venom,USA,Superhero,2018-10-03,False,71%,29%,AUT,https://flixpatrol.com/title/venom-2018,EUR
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,AUT,https://flixpatrol.com/title/cobra-kai,EUR
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,AUT,https://flixpatrol.com/title/project-power,EUR
+35,TV Show,Biohackers,Germany,Drama,2020-08-20,True,55%,,AUT,https://flixpatrol.com/title/biohackers,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,AUT,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,AUT,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,AUT,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,AUT,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,London Has Fallen,United Kingdom,Action,2016-01-22,False,59%,26%,AUT,https://flixpatrol.com/title/london-has-fallen,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,AUT,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,AUT,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,How to Sell Drugs Online (Fast),Germany,Comedy,2019-05-31,True,80%,90%,AUT,https://flixpatrol.com/title/how-to-sell-drugs-online-fast,EUR
+30,Movie,Fantastic Beasts: The Crimes of Grindelwald,United Kingdom,Fantasy,2018-11-14,False,70%,40%,AUT,https://flixpatrol.com/title/fantastic-beasts-the-crimes-of-grindelwald,EUR
+30,TV Show,How to Sell Drugs Online (Fast),Germany,Comedy,2019-05-31,True,80%,90%,AUT,https://flixpatrol.com/title/how-to-sell-drugs-online-fast,EUR
+29,Movie,The Equalizer 2,USA,Action,2018-07-19,False,71%,51%,AUT,https://flixpatrol.com/title/the-equalizer-2,EUR
+29,TV Show,The Blacklist,USA,Crime,2013-09-23,True,81%,91%,AUT,https://flixpatrol.com/title/the-blacklist,EUR
+28,Movie,Desperados,USA,Comedy,2020-07-03,True,51%,15%,AUT,https://flixpatrol.com/title/desperados-2020,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,AUT,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,AUT,https://flixpatrol.com/title/365-days,EUR
+27,TV Show,The Blacklist,USA,Crime,2013-09-23,True,81%,91%,AUT,https://flixpatrol.com/title/the-blacklist,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,AUT,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,Modern Family,USA,Comedy,2009-09-23,False,84%,,AUT,https://flixpatrol.com/title/modern-family,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,AUT,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Rick and Morty,USA,Animated,2013-12-02,False,93%,,AUT,https://flixpatrol.com/title/rick-and-morty,EUR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,AUT,https://flixpatrol.com/title/365-days,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,AUT,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,War for the Planet of the Apes,USA,Science Fiction,2017-07-11,False,75%,93%,AUT,https://flixpatrol.com/title/war-for-the-planet-of-the-apes,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,AUT,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Ted,USA,Comedy,2012-06-29,False,70%,41%,AUT,https://flixpatrol.com/title/ted,EUR
+22,TV Show,Dynasty,USA,Drama,2017-10-11,True,59%,80%,AUT,https://flixpatrol.com/title/dynasty-2017,EUR
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,AUT,https://flixpatrol.com/title/the-wrong-missy,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,AUT,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,AUT,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,AUT,https://flixpatrol.com/title/too-hot-to-handle,EUR
+19,Movie,Gifted,USA,Drama,2017-04-12,False,76%,73%,AUT,https://flixpatrol.com/title/gifted,EUR
+19,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,AUT,https://flixpatrol.com/title/never-have-i-ever,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,AUT,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,AUT,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Furious 7,USA,Action,2015-04-03,False,74%,80%,AUT,https://flixpatrol.com/title/furious-7,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,AUT,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,The Meg,USA,Horror,2018-08-10,False,67%,46%,AUT,https://flixpatrol.com/title/the-meg,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,AUT,https://flixpatrol.com/title/money-heist,EUR
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,AUT,https://flixpatrol.com/title/money-heist-the-phenomenon,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,AUT,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,AUT,https://flixpatrol.com/title/the-platform,EUR
+14,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,AUT,https://flixpatrol.com/title/freud,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,AUT,https://flixpatrol.com/title/the-platform,EUR
+13,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,AUT,https://flixpatrol.com/title/freud,EUR

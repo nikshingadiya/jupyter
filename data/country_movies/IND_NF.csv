@@ -1,0 +1,49 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Unbroken",USA,Drama,2014-12-25,False,72%,51%,IND,https://flixpatrol.com/title/unbroken,ASI
+37,TV Show,Masaba Masaba,India,Comedy,2020-08-28,True,68%,,IND,https://flixpatrol.com/title/masaba-masaba,ASI
+36,Movie,Class of '83,India,Drama,2020-08-21,False,,20%,IND,https://flixpatrol.com/title/class-of-83,ASI
+36,TV Show,Masaba Masaba,India,Comedy,2020-08-28,True,68%,,IND,https://flixpatrol.com/title/masaba-masaba,ASI
+35,Movie,Class of '83,India,Drama,2020-08-21,False,,20%,IND,https://flixpatrol.com/title/class-of-83,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,IND,https://flixpatrol.com/title/lucifer,ASI
+34,Movie,Gunjan Saxena: The Kargil Girl,India,War,2020-08-12,False,31%,100%,IND,https://flixpatrol.com/title/gunjan-saxena-the-kargil-girl,ASI
+34,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,IND,https://flixpatrol.com/title/dark-desire,ASI
+33,Movie,Raat Akeli Hai,India,Crime,2020-07-31,False,78%,,IND,https://flixpatrol.com/title/raat-akeli-hai,ASI
+33,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,IND,https://flixpatrol.com/title/dark-desire,ASI
+32,Movie,Raat Akeli Hai,India,Crime,2020-07-31,False,78%,,IND,https://flixpatrol.com/title/raat-akeli-hai,ASI
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,IND,https://flixpatrol.com/title/the-umbrella-academy,ASI
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,IND,https://flixpatrol.com/title/the-kissing-booth-2,ASI
+31,TV Show,Indian Matchmaking,USA,Reality-Show,2020-07-16,False,69%,,IND,https://flixpatrol.com/title/indian-matchmaking,ASI
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,IND,https://flixpatrol.com/title/milf-2018,ASI
+30,TV Show,Indian Matchmaking,USA,Reality-Show,2020-07-16,False,69%,,IND,https://flixpatrol.com/title/indian-matchmaking,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,IND,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,IND,https://flixpatrol.com/title/dark-2017,ASI
+28,Movie,Penalty,India,Drama,2019-07-19,False,,,IND,https://flixpatrol.com/title/penalty,ASI
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,IND,https://flixpatrol.com/title/dark-2017,ASI
+27,Movie,Bulbbul,India,Horror,2020-06-24,False,66%,90%,IND,https://flixpatrol.com/title/bulbbul,ASI
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,IND,https://flixpatrol.com/title/dark-2017,ASI
+26,Movie,Bulbbul,India,Horror,2020-06-24,False,66%,90%,IND,https://flixpatrol.com/title/bulbbul,ASI
+26,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,IND,https://flixpatrol.com/title/dark-2017,ASI
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,IND,https://flixpatrol.com/title/365-days,ASI
+25,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,IND,https://flixpatrol.com/title/dark-2017,ASI
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,IND,https://flixpatrol.com/title/365-days,ASI
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,IND,https://flixpatrol.com/title/13-reasons-why,ASI
+23,Movie,Malang,India,Action,2020-02-06,False,,57%,IND,https://flixpatrol.com/title/malang,ASI
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,IND,https://flixpatrol.com/title/space-force,ASI
+22,Movie,Malang,India,Action,2020-02-06,False,,57%,IND,https://flixpatrol.com/title/malang,ASI
+22,TV Show,Betaal,India,Horror,2020-05-24,True,,73%,IND,https://flixpatrol.com/title/betaal,ASI
+21,Movie,Malang,India,Action,2020-02-06,False,,57%,IND,https://flixpatrol.com/title/malang,ASI
+21,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,IND,https://flixpatrol.com/title/money-heist,ASI
+20,Movie,Love Aaj Kal,India,Drama,2020-02-14,False,54%,17%,IND,https://flixpatrol.com/title/love-aaj-kal-2020,ASI
+20,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,IND,https://flixpatrol.com/title/never-have-i-ever,ASI
+19,Movie,Mrs. Serial Killer,USA,Thriller,2020-05-01,True,28%,,IND,https://flixpatrol.com/title/mrs-serial-killer,ASI
+19,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,IND,https://flixpatrol.com/title/never-have-i-ever,ASI
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,IND,https://flixpatrol.com/title/extraction-2020,ASI
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,IND,https://flixpatrol.com/title/never-have-i-ever,ASI
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,IND,https://flixpatrol.com/title/extraction-2020,ASI
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,IND,https://flixpatrol.com/title/too-hot-to-handle,ASI
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,IND,https://flixpatrol.com/title/love-wedding-repeat,ASI
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,IND,https://flixpatrol.com/title/money-heist,ASI
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,IND,https://flixpatrol.com/title/money-heist-the-phenomenon,ASI
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,IND,https://flixpatrol.com/title/money-heist,ASI
+14,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,IND,https://flixpatrol.com/title/money-heist-the-phenomenon,ASI
+14,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,IND,https://flixpatrol.com/title/money-heist,ASI

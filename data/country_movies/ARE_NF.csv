@@ -1,0 +1,7 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,#Alive,South Korea,Horror,2020-09-08,False,62%,86%,ARE,https://flixpatrol.com/title/alive-2020,ASI
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,ARE,https://flixpatrol.com/title/away-2020,ASI
+36,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,ARE,https://flixpatrol.com/title/skyscraper,ASI
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ARE,https://flixpatrol.com/title/lucifer,ASI
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ARE,https://flixpatrol.com/title/project-power,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ARE,https://flixpatrol.com/title/lucifer,ASI

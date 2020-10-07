@@ -1,0 +1,31 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,NGA,https://flixpatrol.com/title/love-guaranteed,AFR
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NGA,https://flixpatrol.com/title/lucifer,AFR
+36,Movie,Santana,South Africa,Action,2020-08-28,False,39%,,NGA,https://flixpatrol.com/title/santana,AFR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NGA,https://flixpatrol.com/title/lucifer,AFR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,NGA,https://flixpatrol.com/title/the-sleepover,AFR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NGA,https://flixpatrol.com/title/lucifer,AFR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,NGA,https://flixpatrol.com/title/project-power,AFR
+34,TV Show,Greenleaf,USA,Drama,2016-06-21,True,73%,82%,NGA,https://flixpatrol.com/title/greenleaf,AFR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,NGA,https://flixpatrol.com/title/work-it-2020,AFR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NGA,https://flixpatrol.com/title/the-umbrella-academy,AFR
+32,Movie -- --,Fix Us,,,Movie,False,,,NGA,https://flixpatrol.com/title/fix-us,AFR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NGA,https://flixpatrol.com/title/the-umbrella-academy,AFR
+31,Movie,It’s Her Day,Nigeria,Situation,Comedy,False,,,NGA,https://flixpatrol.com/title/its-her-day,AFR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NGA,https://flixpatrol.com/title/cursed-2020,AFR
+30,Movie,The Millions,Nigeria,Drama,2019-08-30,False,68%,,NGA,https://flixpatrol.com/title/the-millions,AFR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NGA,https://flixpatrol.com/title/cursed-2020,AFR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,NGA,https://flixpatrol.com/title/the-old-guard,AFR
+29,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NGA,https://flixpatrol.com/title/warrior-nun,AFR
+28,Movie,Sugar Rush,Nigeria,Comedy,2019-12-25,False,75%,,NGA,https://flixpatrol.com/title/sugar-rush-2019,AFR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NGA,https://flixpatrol.com/title/warrior-nun,AFR
+27,Movie,Kasanova,Nigeria,Drama,2019-09-13,False,,,NGA,https://flixpatrol.com/title/kasanova,AFR
+27,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,AFR
+26,Movie,Elevator Baby,Nigeria,Drama,2019-01-01,False,70%,,NGA,https://flixpatrol.com/title/elevator-baby,AFR
+26,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,AFR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NGA,https://flixpatrol.com/title/365-days,AFR
+25,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,AFR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NGA,https://flixpatrol.com/title/365-days,AFR
+24,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,AFR
+23,Movie,Living In Bondage: Breaking Free,Nigeria,Drama,2019-11-08,False,,,NGA,https://flixpatrol.com/title/living-in-bondage-breaking-free,AFR
+23,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,AFR

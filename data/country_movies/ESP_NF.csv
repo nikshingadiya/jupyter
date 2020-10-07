@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,ESP,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,ESP,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,Unknown Origins,Spain,Crime,2020-08-28,True,61%,,ESP,https://flixpatrol.com/title/unknown-origins,EUR
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,ESP,https://flixpatrol.com/title/cobra-kai,EUR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,ESP,https://flixpatrol.com/title/the-sleepover,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ESP,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ESP,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ESP,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ESP,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ESP,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,Bumblebee,USA,Science Fiction,2018-12-15,False,73%,93%,ESP,https://flixpatrol.com/title/bumblebee,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ESP,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ESP,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ESP,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,ESP,https://flixpatrol.com/title/milf-2018,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ESP,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Meg,USA,Horror,2018-08-10,False,67%,46%,ESP,https://flixpatrol.com/title/the-meg,EUR
+29,TV Show,Cable Girls,Spain,Drama,2017-04-28,True,77%,83%,ESP,https://flixpatrol.com/title/cable-girls,EUR
+28,Movie,Desperados,USA,Comedy,2020-07-03,True,51%,15%,ESP,https://flixpatrol.com/title/desperados-2020,EUR
+28,TV Show,Cable Girls,Spain,Drama,2017-04-28,True,77%,83%,ESP,https://flixpatrol.com/title/cable-girls,EUR
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ESP,https://flixpatrol.com/title/365-days,EUR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,ESP,https://flixpatrol.com/title/dark-2017,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ESP,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,ESP,https://flixpatrol.com/title/the-sinner,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ESP,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Rick and Morty,USA,Animated,2013-12-02,False,93%,,ESP,https://flixpatrol.com/title/rick-and-morty,EUR
+24,Movie,Ocean's 8,USA,Crime,2018-06-08,False,62%,,ESP,https://flixpatrol.com/title/oceans-8,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,ESP,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,The Equalizer 2,USA,Action,2018-07-19,False,71%,51%,ESP,https://flixpatrol.com/title/the-equalizer-2,EUR
+23,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,ESP,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,EUR
+22,Movie,The Equalizer 2,USA,Action,2018-07-19,False,71%,51%,ESP,https://flixpatrol.com/title/the-equalizer-2,EUR
+22,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,ESP,https://flixpatrol.com/title/white-lines,EUR
+21,Movie,"I Love You, Stupid",Spain,Comedy,2020-05-15,True,,,ESP,https://flixpatrol.com/title/i-love-you-stupid,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,ESP,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ESP,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,TV Show,Valeria,Spain,Drama,2020-05-08,True,58%,,ESP,https://flixpatrol.com/title/valeria,EUR
+19,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,ESP,https://flixpatrol.com/title/dangerous-lies,EUR
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ESP,https://flixpatrol.com/title/the-last-dance,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,ESP,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Summertime,Italy,Drama,2020-04-29,True,57%,83%,ESP,https://flixpatrol.com/title/summertime-2020,EUR
+17,Movie,The Legacy of the Bones,Spain,Crime,2019-12-05,True,61%,,ESP,https://flixpatrol.com/title/the-legacy-of-the-bones,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ESP,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,ESP,https://flixpatrol.com/title/love-wedding-repeat,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ESP,https://flixpatrol.com/title/money-heist,EUR
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,ESP,https://flixpatrol.com/title/money-heist-the-phenomenon,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ESP,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,Rampage,USA,Adventure,2018-04-19,False,66%,51%,ESP,https://flixpatrol.com/title/rampage,EUR
+14,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,ESP,https://flixpatrol.com/title/toy-boy-2019,EUR
+13,Movie,The Occupant,Spain,Crime,2020-03-25,True,63%,50%,ESP,https://flixpatrol.com/title/the-occupant,EUR
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,ESP,https://flixpatrol.com/title/toy-boy-2019,EUR
+12,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,ESP,https://flixpatrol.com/title/the-platform,EUR
+12,TV Show,Elite,Spain,Crime,2018-10-05,True,76%,97%,ESP,https://flixpatrol.com/title/elite,EUR

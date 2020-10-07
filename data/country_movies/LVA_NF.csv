@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,LVA,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,LVA,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,Johnny English Strikes Again,United Kingdom,Comedy,2018-09-13,False,66%,34%,LVA,https://flixpatrol.com/title/johnny-english-3,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,LVA,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,LVA,https://flixpatrol.com/title/the-sleepover,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,LVA,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,LVA,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,LVA,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,LVA,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,LVA,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,LVA,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,LVA,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,LVA,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,LVA,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,LVA,https://flixpatrol.com/title/milf-2018,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,LVA,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,LVA,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,LVA,https://flixpatrol.com/title/snowpiercer-2020,EUR
+28,Movie,The F**k-It List,USA,Comedy,2020-07-01,False,52%,,LVA,https://flixpatrol.com/title/the-fk-it-list,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,LVA,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,LVA,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Modern Family,USA,Comedy,2009-09-23,False,84%,,LVA,https://flixpatrol.com/title/modern-family,EUR
+26,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,LVA,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+26,TV Show,Modern Family,USA,Comedy,2009-09-23,False,84%,,LVA,https://flixpatrol.com/title/modern-family,EUR

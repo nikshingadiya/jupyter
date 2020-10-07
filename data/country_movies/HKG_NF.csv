@@ -1,0 +1,43 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,#Alive,South Korea,Horror,2020-09-08,False,62%,86%,HKG,https://flixpatrol.com/title/alive-2020,ASI
+37,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+36,Movie,The First Purge,USA,Horror,2018-07-04,False,53%,54%,HKG,https://flixpatrol.com/title/the-first-purge,ASI
+36,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,HKG,https://flixpatrol.com/title/project-power,ASI
+35,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,HKG,https://flixpatrol.com/title/project-power,ASI
+34,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+33,Movie,Ocean's 8,USA,Crime,2018-06-08,False,62%,,HKG,https://flixpatrol.com/title/oceans-8,ASI
+33,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+32,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,HKG,https://flixpatrol.com/title/skyscraper,ASI
+32,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+31,Movie,Bad Boys for Life,USA,Action,2020-01-16,False,74%,77%,HKG,https://flixpatrol.com/title/bad-boys-for-life,ASI
+31,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,HKG,https://flixpatrol.com/title/the-old-guard,ASI
+30,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,HKG,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+28,Movie,Johnny English Reborn,United Kingdom,Comedy,2011-09-15,False,63%,38%,HKG,https://flixpatrol.com/title/johnny-english-reborn,ASI
+28,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+27,Movie,Jurassic World: Fallen Kingdom,USA,Science Fiction,2018-06-06,False,67%,47%,HKG,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,ASI
+27,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+26,Movie,Jurassic World: Fallen Kingdom,USA,Science Fiction,2018-06-06,False,67%,47%,HKG,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,ASI
+26,TV Show,It's Okay to Not Be Okay,South Korea,Drama,2020-06-20,True,90%,,HKG,https://flixpatrol.com/title/its-okay-to-not-be-okay,ASI
+25,Movie,Sniper: Ultimate Kill,USA,Action,2017-10-03,False,56%,,HKG,https://flixpatrol.com/title/sniper-ultimate-kill,ASI
+25,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,HKG,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,HKG,https://flixpatrol.com/title/365-days,ASI
+24,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,HKG,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+23,Movie,X-Men: Apocalypse,USA,Superhero,2016-05-18,False,72%,48%,HKG,https://flixpatrol.com/title/x-men-apocalypse,ASI
+23,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,HKG,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+22,Movie,X-Men: Apocalypse,USA,Superhero,2016-05-18,False,72%,48%,HKG,https://flixpatrol.com/title/x-men-apocalypse,ASI
+22,Documentary TV,History 101,United Kingdom,Documentary,2020-05-22,True,60%,,HKG,https://flixpatrol.com/title/history-101,ASI
+21,Movie,Rampage,USA,,1987-09-01,False,64%,,HKG,https://flixpatrol.com/title/rampage,ASI
+21,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,HKG,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+20,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,HKG,https://flixpatrol.com/title/extraction-2020,ASI
+20,TV Show,The King: Eternal Monarch,South Korea,Fantasy,2020-04-17,True,87%,,HKG,https://flixpatrol.com/title/the-king-eternal-monarch,ASI
+19,Movie,Ready Player One,USA,Science Fiction,2018-03-28,False,81%,72%,HKG,https://flixpatrol.com/title/ready-player-one,ASI
+19,TV Show,The Victims' Game,Taiwan,Crime,2020-04-30,True,76%,,HKG,https://flixpatrol.com/title/the-victims-game,ASI
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,HKG,https://flixpatrol.com/title/extraction-2020,ASI
+18,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,HKG,https://flixpatrol.com/title/too-hot-to-handle,ASI
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,HKG,https://flixpatrol.com/title/extraction-2020,ASI
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,HKG,https://flixpatrol.com/title/too-hot-to-handle,ASI

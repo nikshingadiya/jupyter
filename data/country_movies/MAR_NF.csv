@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,MAR,https://flixpatrol.com/title/love-guaranteed,AFR
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,MAR,https://flixpatrol.com/title/lucifer,AFR
+36,Movie,Santana,South Africa,Action,2020-08-28,False,39%,,MAR,https://flixpatrol.com/title/santana,AFR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,MAR,https://flixpatrol.com/title/lucifer,AFR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,MAR,https://flixpatrol.com/title/the-sleepover,AFR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,MAR,https://flixpatrol.com/title/lucifer,AFR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,MAR,https://flixpatrol.com/title/project-power,AFR
+34,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,MAR,https://flixpatrol.com/title/dark-desire,AFR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,MAR,https://flixpatrol.com/title/work-it-2020,AFR
+33,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,MAR,https://flixpatrol.com/title/locked-up,AFR
+32,Movie,Seriously Single,South Africa,Comedy,2020-07-31,True,38%,,MAR,https://flixpatrol.com/title/seriously-single,AFR
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,MAR,https://flixpatrol.com/title/locked-up,AFR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,MAR,https://flixpatrol.com/title/the-kissing-booth-2,AFR
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,MAR,https://flixpatrol.com/title/dark-desire,AFR
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,MAR,https://flixpatrol.com/title/the-old-guard,AFR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,MAR,https://flixpatrol.com/title/cursed-2020,AFR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,MAR,https://flixpatrol.com/title/the-old-guard,AFR
+29,TV Show,Queen of the South,USA,Drama,2016-06-23,False,77%,,MAR,https://flixpatrol.com/title/queen-of-the-south,AFR
+28,Movie,Safe House,USA,Thriller,2012-02-10,False,68%,53%,MAR,https://flixpatrol.com/title/safe-house,AFR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,MAR,https://flixpatrol.com/title/warrior-nun,AFR
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,MAR,https://flixpatrol.com/title/365-days,AFR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,MAR,https://flixpatrol.com/title/dark-2017,AFR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,MAR,https://flixpatrol.com/title/365-days,AFR
+26,TV Show,The Order,USA,Fantasy,2019-03-07,True,69%,100%,MAR,https://flixpatrol.com/title/the-order-2019,AFR

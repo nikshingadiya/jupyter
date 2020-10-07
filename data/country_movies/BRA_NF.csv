@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,BRA,https://flixpatrol.com/title/the-emoji-movie,AME
+37,TV Show,Chiquititas,,,2013-07-15,False,,,BRA,https://flixpatrol.com/title/chiquititas,AME
+36,Movie -- --,Em Prova: Amiga do Inimigo,,,Movie,False,,,BRA,https://flixpatrol.com/title/em-prova-amiga-do-inimigo,AME
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,BRA,https://flixpatrol.com/title/lucifer,AME
+35,Movie,Escape Plan,USA,Action,2013-11-13,False,68%,49%,BRA,https://flixpatrol.com/title/escape-plan,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,BRA,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,BRA,https://flixpatrol.com/title/project-power,AME
+34,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BRA,https://flixpatrol.com/title/dark-desire,AME
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,BRA,https://flixpatrol.com/title/work-it-2020,AME
+33,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,BRA,https://flixpatrol.com/title/locked-up,AME
+32,Movie,Luccas Neto em: O Hotel Mágico,,,2020-05-01,False,,,BRA,https://flixpatrol.com/title/luccas-neto-em-o-hotel-magico,AME
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,BRA,https://flixpatrol.com/title/locked-up,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,BRA,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BRA,https://flixpatrol.com/title/dark-desire,AME
+30,Movie,Parker,USA,Crime,2013-01-25,False,62%,40%,BRA,https://flixpatrol.com/title/parker,AME
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BRA,https://flixpatrol.com/title/dark-desire,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,BRA,https://flixpatrol.com/title/the-old-guard,AME
+29,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BRA,https://flixpatrol.com/title/dark-desire,AME
+28,Movie,Desperados,USA,Comedy,2020-07-03,True,51%,15%,BRA,https://flixpatrol.com/title/desperados-2020,AME
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,BRA,https://flixpatrol.com/title/warrior-nun,AME
+27,Movie,Baby Driver,USA,Action,2017-06-28,False,78%,92%,BRA,https://flixpatrol.com/title/baby-driver,AME
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,BRA,https://flixpatrol.com/title/dark-2017,AME
+26,Movie,Lost Bullet,France,Crime,2020-06-19,True,62%,,BRA,https://flixpatrol.com/title/lost-bullet,AME
+26,TV Show,The Order,USA,Fantasy,2019-03-07,True,69%,100%,BRA,https://flixpatrol.com/title/the-order-2019,AME
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,BRA,https://flixpatrol.com/title/365-days,AME
+25,TV Show,Most Beautiful Thing,Brazil,Drama,2019-03-22,True,80%,,BRA,https://flixpatrol.com/title/most-beautiful-thing,AME
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,BRA,https://flixpatrol.com/title/365-days,AME
+24,TV Show,Reality Z,Brazil,Comedy,2020-06-10,True,46%,20%,BRA,https://flixpatrol.com/title/reality-z,AME
+23,Movie,Hancock,USA,Superhero,2008-07-01,False,64%,41%,BRA,https://flixpatrol.com/title/hancock,AME
+23,TV Show,Control Z,Mexico,Drama,2020-05-22,True,70%,67%,BRA,https://flixpatrol.com/title/control-z,AME
+22,Movie,Mercury Rising,USA,Action,1998-04-03,False,61%,17%,BRA,https://flixpatrol.com/title/mercury-rising,AME
+22,TV Show,Control Z,Mexico,Drama,2020-05-22,True,70%,67%,BRA,https://flixpatrol.com/title/control-z,AME
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,BRA,https://flixpatrol.com/title/the-wrong-missy,AME
+21,TV Show,The 100,USA,Science Fiction,2014-03-19,True,78%,92%,BRA,https://flixpatrol.com/title/the-100,AME
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,BRA,https://flixpatrol.com/title/the-wrong-missy,AME
+20,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,BRA,https://flixpatrol.com/title/never-have-i-ever,AME
+19,Movie,Vacation,USA,Comedy,2015-07-29,False,62%,26%,BRA,https://flixpatrol.com/title/vacation,AME
+19,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,BRA,https://flixpatrol.com/title/never-have-i-ever,AME
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,BRA,https://flixpatrol.com/title/extraction-2020,AME
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,BRA,https://flixpatrol.com/title/never-have-i-ever,AME
+17,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,BRA,https://flixpatrol.com/title/miracle-in-cell-no-7,AME
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,BRA,https://flixpatrol.com/title/too-hot-to-handle,AME
+16,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,BRA,https://flixpatrol.com/title/miracle-in-cell-no-7,AME
+16,TV Show,Blindspot,USA,Crime,2015-09-21,False,74%,,BRA,https://flixpatrol.com/title/blindspot-2015,AME
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,BRA,https://flixpatrol.com/title/money-heist-the-phenomenon,AME
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,BRA,https://flixpatrol.com/title/money-heist,AME
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,BRA,https://flixpatrol.com/title/the-platform,AME
+14,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,BRA,https://flixpatrol.com/title/toy-boy-2019,AME
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,BRA,https://flixpatrol.com/title/the-platform,AME
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,BRA,https://flixpatrol.com/title/toy-boy-2019,AME

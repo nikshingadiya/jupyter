@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Grinch,USA,Animated,2018-11-08,False,63%,58%,KWT,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,ASI
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,KWT,https://flixpatrol.com/title/lucifer,ASI
+36,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,KWT,https://flixpatrol.com/title/skyscraper,ASI
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,KWT,https://flixpatrol.com/title/lucifer,ASI
+35,Movie,Scarecrow,,,2019-01-01,False,,,KWT,https://flixpatrol.com/title/scarecrow-2019,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,KWT,https://flixpatrol.com/title/lucifer,ASI
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,KWT,https://flixpatrol.com/title/project-power,ASI
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,KWT,https://flixpatrol.com/title/the-umbrella-academy,ASI
+33,Movie -- --,No Surrender,,,Movie,False,,,KWT,https://flixpatrol.com/title/no-surrender-0,ASI
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,KWT,https://flixpatrol.com/title/the-umbrella-academy,ASI
+32,Movie,Jumanji: Welcome to the Jungle,USA,Adventure,2017-12-20,False,69%,76%,KWT,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,ASI
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,KWT,https://flixpatrol.com/title/locked-up,ASI
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,KWT,https://flixpatrol.com/title/the-kissing-booth-2,ASI
+31,TV Show,Good Girls,USA,Comedy,2018-02-26,True,78%,87%,KWT,https://flixpatrol.com/title/good-girls,ASI
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,KWT,https://flixpatrol.com/title/milf-2018,ASI
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,KWT,https://flixpatrol.com/title/cursed-2020,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,KWT,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,Queen of the South,USA,Drama,2016-06-23,False,77%,,KWT,https://flixpatrol.com/title/queen-of-the-south,ASI
+28,Movie,The Mask,USA,Comedy,1994-07-29,False,69%,77%,KWT,https://flixpatrol.com/title/the-mask,ASI
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,KWT,https://flixpatrol.com/title/dark-2017,ASI
+27,Movie,The Mask,USA,Comedy,1994-07-29,False,69%,77%,KWT,https://flixpatrol.com/title/the-mask,ASI
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,KWT,https://flixpatrol.com/title/dark-2017,ASI
+26,Movie,Lost Bullet,France,Crime,2020-06-19,True,62%,,KWT,https://flixpatrol.com/title/lost-bullet,ASI
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,KWT,https://flixpatrol.com/title/floor-is-lava,ASI

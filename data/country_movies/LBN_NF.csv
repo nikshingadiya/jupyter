@@ -1,0 +1,7 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,LBN,https://flixpatrol.com/title/skyscraper,ASI
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,LBN,https://flixpatrol.com/title/lucifer,ASI
+36,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,LBN,https://flixpatrol.com/title/skyscraper,ASI
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,LBN,https://flixpatrol.com/title/lucifer,ASI
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,LBN,https://flixpatrol.com/title/the-sleepover,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,LBN,https://flixpatrol.com/title/lucifer,ASI

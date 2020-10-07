@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,ISR,https://flixpatrol.com/title/love-guaranteed,ASI
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,ISR,https://flixpatrol.com/title/away-2020,ASI
+36,Short,The Boss Baby: Get That Baby!,USA,Animated,2020-09-01,False,,,ISR,https://flixpatrol.com/title/the-boss-baby-get-that-baby,ASI
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ISR,https://flixpatrol.com/title/lucifer,ASI
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ISR,https://flixpatrol.com/title/project-power,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ISR,https://flixpatrol.com/title/lucifer,ASI
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ISR,https://flixpatrol.com/title/project-power,ASI
+34,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ISR,https://flixpatrol.com/title/locked-up,ASI
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ISR,https://flixpatrol.com/title/work-it-2020,ASI
+33,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ISR,https://flixpatrol.com/title/locked-up,ASI
+32,Movie,Malibu Rescue: The Next Wave,USA,Comedy,2020-08-04,True,59%,,ISR,https://flixpatrol.com/title/malibu-rescue-the-next-wave,ASI
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ISR,https://flixpatrol.com/title/locked-up,ASI
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ISR,https://flixpatrol.com/title/the-kissing-booth-2,ASI
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,ISR,https://flixpatrol.com/title/dark-desire,ASI
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,ISR,https://flixpatrol.com/title/milf-2018,ASI
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ISR,https://flixpatrol.com/title/cursed-2020,ASI
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,ISR,https://flixpatrol.com/title/the-old-guard,ASI
+29,TV Show,Fauda,Israel,Action,2015-02-15,True,84%,100%,ISR,https://flixpatrol.com/title/fauda,ASI
+28,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ISR,https://flixpatrol.com/title/365-days,ASI
+28,TV Show,Fauda,Israel,Action,2015-02-15,True,84%,100%,ISR,https://flixpatrol.com/title/fauda,ASI
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ISR,https://flixpatrol.com/title/365-days,ASI
+27,TV Show,Fauda,Israel,Action,2015-02-15,True,84%,100%,ISR,https://flixpatrol.com/title/fauda,ASI
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ISR,https://flixpatrol.com/title/365-days,ASI
+26,TV Show,Fauda,Israel,Action,2015-02-15,True,84%,100%,ISR,https://flixpatrol.com/title/fauda,ASI
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ISR,https://flixpatrol.com/title/365-days,ASI
+25,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,ISR,https://flixpatrol.com/title/snowpiercer-2020,ASI
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ISR,https://flixpatrol.com/title/365-days,ASI
+24,TV Show,Rick and Morty,USA,Animated,2013-12-02,False,93%,,ISR,https://flixpatrol.com/title/rick-and-morty,ASI
+23,Movie,Edge of Tomorrow,USA,Science Fiction,2014-06-06,False,79%,91%,ISR,https://flixpatrol.com/title/edge-of-tomorrow,ASI
+23,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,ISR,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,ASI
+22,Movie,The Lovebirds,USA,Comedy,2020-05-22,True,60%,67%,ISR,https://flixpatrol.com/title/the-lovebirds,ASI
+22,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ISR,https://flixpatrol.com/title/the-last-dance,ASI
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ISR,https://flixpatrol.com/title/the-wrong-missy,ASI
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ISR,https://flixpatrol.com/title/the-last-dance,ASI
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ISR,https://flixpatrol.com/title/the-wrong-missy,ASI
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ISR,https://flixpatrol.com/title/the-last-dance,ASI
+19,Movie,17 Again,USA,Comedy,2009-03-11,False,64%,56%,ISR,https://flixpatrol.com/title/17-again,ASI
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ISR,https://flixpatrol.com/title/the-last-dance,ASI
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,ISR,https://flixpatrol.com/title/extraction-2020,ASI
+18,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ISR,https://flixpatrol.com/title/too-hot-to-handle,ASI
+17,Movie,Emerson Heights,USA,Romance,2018-02-24,False,71%,,ISR,https://flixpatrol.com/title/emerson-heights,ASI
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ISR,https://flixpatrol.com/title/too-hot-to-handle,ASI
+16,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,ISR,https://flixpatrol.com/title/miracle-in-cell-no-7,ASI
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ISR,https://flixpatrol.com/title/money-heist,ASI
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,ISR,https://flixpatrol.com/title/money-heist-the-phenomenon,ASI
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ISR,https://flixpatrol.com/title/money-heist,ASI
+14,Documentary,Making Unorthodox,Germany,Documentary,2020-03-26,True,69%,,ISR,https://flixpatrol.com/title/making-unorthodox,ASI
+14,TV Show,Unorthodox,Germany,Drama,2020-03-26,True,75%,95%,ISR,https://flixpatrol.com/title/unorthodox,ASI
+13,Movie,Contagion,USA,Thriller,2011-09-09,False,67%,84%,ISR,https://flixpatrol.com/title/contagion,ASI
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,ISR,https://flixpatrol.com/title/toy-boy-2019,ASI

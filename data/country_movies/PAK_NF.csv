@@ -1,0 +1,7 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,#Alive,South Korea,Horror,2020-09-08,False,62%,86%,PAK,https://flixpatrol.com/title/alive-2020,ASI
+37,TV Show,Resurrection: Ertugrul,Turkey,,2014-12-11,False,78%,,PAK,https://flixpatrol.com/title/resurrection-ertugrul-2014,ASI
+36,Movie,Aquaman,USA,Superhero,2018-12-07,False,77%,65%,PAK,https://flixpatrol.com/title/aquaman,ASI
+36,TV Show,Resurrection: Ertugrul,Turkey,,2014-12-11,False,78%,,PAK,https://flixpatrol.com/title/resurrection-ertugrul-2014,ASI
+35,Movie,Class of '83,India,Drama,2020-08-21,False,,20%,PAK,https://flixpatrol.com/title/class-of-83,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,PAK,https://flixpatrol.com/title/lucifer,ASI

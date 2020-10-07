@@ -1,0 +1,7 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,#Alive,South Korea,Horror,2020-09-08,False,62%,86%,BGD,https://flixpatrol.com/title/alive-2020,ASI
+37,TV Show,Masaba Masaba,India,Comedy,2020-08-28,True,68%,,BGD,https://flixpatrol.com/title/masaba-masaba,ASI
+36,Movie,Aquaman,USA,Superhero,2018-12-07,False,77%,65%,BGD,https://flixpatrol.com/title/aquaman,ASI
+36,TV Show,Masaba Masaba,India,Comedy,2020-08-28,True,68%,,BGD,https://flixpatrol.com/title/masaba-masaba,ASI
+35,Movie,Class of '83,India,Drama,2020-08-21,False,,20%,BGD,https://flixpatrol.com/title/class-of-83,ASI
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,BGD,https://flixpatrol.com/title/lucifer,ASI

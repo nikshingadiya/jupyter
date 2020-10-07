@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,CAN,https://flixpatrol.com/title/love-guaranteed,AME
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,CAN,https://flixpatrol.com/title/away-2020,AME
+36,Movie,Jurassic World: Fallen Kingdom,USA,Science Fiction,2018-06-06,False,67%,47%,CAN,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,AME
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,CAN,https://flixpatrol.com/title/cobra-kai,AME
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,CAN,https://flixpatrol.com/title/the-sleepover,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,CAN,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,CAN,https://flixpatrol.com/title/project-power,AME
+34,TV Show,Dirty John,USA,Drama,2018-11-25,True,69%,71%,CAN,https://flixpatrol.com/title/dirty-john,AME
+33,Movie,Death Wish,USA,Action,1974-07-24,False,70%,67%,CAN,https://flixpatrol.com/title/death-wish,AME
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,CAN,https://flixpatrol.com/title/the-umbrella-academy,AME
+32,Movie,Smallfoot,USA,Animated,2018-09-14,False,68%,76%,CAN,https://flixpatrol.com/title/smallfoot,AME
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,CAN,https://flixpatrol.com/title/the-umbrella-academy,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,CAN,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Good Girls,USA,Comedy,2018-02-26,True,78%,87%,CAN,https://flixpatrol.com/title/good-girls,AME
+30,Movie,Overboard,USA,Comedy,2018-05-03,False,56%,25%,CAN,https://flixpatrol.com/title/overboard-2018,AME
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,CAN,https://flixpatrol.com/title/cursed-2020,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,CAN,https://flixpatrol.com/title/the-old-guard,AME
+29,Documentary TV,Down to Earth with Zac Efron,USA,Documentary,2020-07-10,True,82%,67%,CAN,https://flixpatrol.com/title/down-to-earth-with-zac-efron,AME
+28,Movie,Crazy Rich Asians,USA,Comedy,2018-08-15,False,72%,91%,CAN,https://flixpatrol.com/title/crazy-rich-asians,AME
+28,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,CAN,https://flixpatrol.com/title/unsolved-mysteries-2020,AME
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,CAN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,AME
+27,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,CAN,https://flixpatrol.com/title/unsolved-mysteries-2020,AME
+26,Movie,The Meg,USA,Horror,2018-08-10,False,67%,46%,CAN,https://flixpatrol.com/title/the-meg,AME
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,CAN,https://flixpatrol.com/title/floor-is-lava,AME
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,CAN,https://flixpatrol.com/title/365-days,AME
+25,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,CAN,https://flixpatrol.com/title/13-reasons-why,AME
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,CAN,https://flixpatrol.com/title/365-days,AME
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,CAN,https://flixpatrol.com/title/13-reasons-why,AME
+23,Movie,Blockers,USA,Comedy,2018-03-14,False,62%,83%,CAN,https://flixpatrol.com/title/blockers,AME
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,CAN,https://flixpatrol.com/title/space-force,AME
+22,Movie,Shrek,USA,Animated,2001-05-16,False,79%,88%,CAN,https://flixpatrol.com/title/shrek,AME
+22,Documentary TV,History 101,United Kingdom,Documentary,2020-05-22,True,60%,,CAN,https://flixpatrol.com/title/history-101,AME
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,CAN,https://flixpatrol.com/title/the-wrong-missy,AME
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,CAN,https://flixpatrol.com/title/the-last-dance,AME
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,CAN,https://flixpatrol.com/title/the-wrong-missy,AME
+20,TV Show,Dead to Me,USA,Drama,2019-05-03,True,80%,91%,CAN,https://flixpatrol.com/title/dead-to-me,AME
+19,Movie,Deadpool 2,USA,Superhero,2018-05-15,False,84%,82%,CAN,https://flixpatrol.com/title/deadpool-2,AME
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,CAN,https://flixpatrol.com/title/the-last-dance,AME
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,CAN,https://flixpatrol.com/title/extraction-2020,AME
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,CAN,https://flixpatrol.com/title/never-have-i-ever,AME
+17,Movie,Tag,USA,Comedy,2018-06-14,False,79%,55%,CAN,https://flixpatrol.com/title/tag-2018,AME
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,CAN,https://flixpatrol.com/title/too-hot-to-handle,AME
+16,Movie,Ocean's 8,USA,Crime,2018-06-08,False,62%,,CAN,https://flixpatrol.com/title/oceans-8,AME
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,CAN,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+15,Movie,The Healer,Spain,,2017-02-17,False,62%,,CAN,https://flixpatrol.com/title/the-healer,AME
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,CAN,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+14,Movie,Life of the Party,USA,Comedy,2018-05-10,False,55%,38%,CAN,https://flixpatrol.com/title/life-of-the-party-2018,AME
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,CAN,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+13,Movie,Life of the Party,USA,Comedy,2018-05-10,False,55%,38%,CAN,https://flixpatrol.com/title/life-of-the-party-2018,AME
+13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,CAN,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+12,Movie,Contagion,USA,Thriller,2011-09-09,False,67%,84%,CAN,https://flixpatrol.com/title/contagion,AME
+12,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,CAN,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME

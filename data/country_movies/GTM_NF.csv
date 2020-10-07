@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,GTM,https://flixpatrol.com/title/the-emoji-movie,AME
+37,TV Show,Her Mother's Killer,,,2020-01-01,False,,,GTM,https://flixpatrol.com/title/her-mothers-killer,AME
+36,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,GTM,https://flixpatrol.com/title/the-emoji-movie,AME
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,GTM,https://flixpatrol.com/title/cobra-kai,AME
+35,Movie,Escape Plan,USA,Action,2013-11-13,False,68%,49%,GTM,https://flixpatrol.com/title/escape-plan,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,GTM,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,GTM,https://flixpatrol.com/title/project-power,AME
+34,TV Show,The Great Heist,,,2020-08-14,False,,,GTM,https://flixpatrol.com/title/the-great-heist,AME
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,GTM,https://flixpatrol.com/title/work-it-2020,AME
+33,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,GTM,https://flixpatrol.com/title/dark-desire,AME
+32,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,GTM,https://flixpatrol.com/title/wonder,AME
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,GTM,https://flixpatrol.com/title/locked-up,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,GTM,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,GTM,https://flixpatrol.com/title/dark-desire,AME
+30,Movie,Spider-Man: Homecoming,USA,Superhero,2017-07-05,False,75%,92%,GTM,https://flixpatrol.com/title/spider-man-homecoming,AME
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,GTM,https://flixpatrol.com/title/dark-desire,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,GTM,https://flixpatrol.com/title/the-old-guard,AME
+29,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,GTM,https://flixpatrol.com/title/dark-desire,AME
+28,Movie,American Assassin,USA,Action,2017-09-14,False,70%,35%,GTM,https://flixpatrol.com/title/american-assassin,AME
+28,TV Show,All For Love,Colombia,Drama,2020-01-07,True,68%,,GTM,https://flixpatrol.com/title/all-for-love-2020,AME
+27,Movie,Baby Driver,USA,Action,2017-06-28,False,78%,92%,GTM,https://flixpatrol.com/title/baby-driver,AME
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,GTM,https://flixpatrol.com/title/dark-2017,AME
+26,Movie,Wonder Woman,USA,Superhero,2017-05-30,False,75%,93%,GTM,https://flixpatrol.com/title/wonder-woman,AME
+26,TV Show,Yo soy Betty la fea,Colombia,,1999-10-25,False,81%,,GTM,https://flixpatrol.com/title/yo-soy-betty-la-fea,AME

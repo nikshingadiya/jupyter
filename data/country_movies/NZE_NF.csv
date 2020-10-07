@@ -1,0 +1,49 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Aquaman,USA,Superhero,2018-12-07,False,77%,65%,NZE,https://flixpatrol.com/title/aquaman,OCE
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,NZE,https://flixpatrol.com/title/away-2020,OCE
+36,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,NZE,https://flixpatrol.com/title/wonder,OCE
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,NZE,https://flixpatrol.com/title/cobra-kai,OCE
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,NZE,https://flixpatrol.com/title/the-sleepover,OCE
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NZE,https://flixpatrol.com/title/lucifer,OCE
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,NZE,https://flixpatrol.com/title/project-power,OCE
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NZE,https://flixpatrol.com/title/the-umbrella-academy,OCE
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,NZE,https://flixpatrol.com/title/work-it-2020,OCE
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NZE,https://flixpatrol.com/title/the-umbrella-academy,OCE
+32,Movie,Latte and the Magic Waterstone,Germany,Animated,2019-12-11,False,56%,,NZE,https://flixpatrol.com/title/latte-and-the-magic-waterstone,OCE
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NZE,https://flixpatrol.com/title/the-umbrella-academy,OCE
+31,Movie,Mortal Engines,USA,Science Fiction,2018-11-27,False,64%,28%,NZE,https://flixpatrol.com/title/mortal-engines,OCE
+31,TV Show,Good Girls,USA,Comedy,2018-02-26,True,78%,87%,NZE,https://flixpatrol.com/title/good-girls,OCE
+30,Movie,The Grinch,USA,Animated,2018-11-08,False,63%,58%,NZE,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,OCE
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NZE,https://flixpatrol.com/title/cursed-2020,OCE
+29,Movie,"10,000 BC",USA,Adventure,2008-03-05,False,51%,,NZE,https://flixpatrol.com/title/10000-bc,OCE
+29,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NZE,https://flixpatrol.com/title/warrior-nun,OCE
+28,Movie,Spider-Man: Homecoming,USA,Superhero,2017-07-05,False,75%,92%,NZE,https://flixpatrol.com/title/spider-man-homecoming,OCE
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NZE,https://flixpatrol.com/title/warrior-nun,OCE
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,NZE,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,OCE
+27,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,NZE,https://flixpatrol.com/title/the-sinner,OCE
+26,Movie,2 Guns,USA,Action,2013-08-02,False,68%,64%,NZE,https://flixpatrol.com/title/2-guns,OCE
+26,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,NZE,https://flixpatrol.com/title/the-sinner,OCE
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NZE,https://flixpatrol.com/title/365-days,OCE
+25,TV Show,Marcella,United Kingdom,Crime,2016-04-04,True,74%,65%,NZE,https://flixpatrol.com/title/marcella,OCE
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NZE,https://flixpatrol.com/title/365-days,OCE
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,NZE,https://flixpatrol.com/title/13-reasons-why,OCE
+23,Movie,King Arthur: Legend of the Sword,USA,Fantasy,2017-03-22,False,67%,31%,NZE,https://flixpatrol.com/title/king-arthur-legend-of-the-sword,OCE
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,NZE,https://flixpatrol.com/title/space-force,OCE
+22,Movie,The Meg,USA,Horror,2018-08-10,False,67%,46%,NZE,https://flixpatrol.com/title/the-meg,OCE
+22,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,NZE,https://flixpatrol.com/title/white-lines,OCE
+21,Movie,Night School,USA,Comedy,2018-09-27,False,56%,27%,NZE,https://flixpatrol.com/title/night-school-2018,OCE
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NZE,https://flixpatrol.com/title/the-last-dance,OCE
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,NZE,https://flixpatrol.com/title/the-wrong-missy,OCE
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NZE,https://flixpatrol.com/title/the-last-dance,OCE
+19,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,NZE,https://flixpatrol.com/title/dangerous-lies,OCE
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NZE,https://flixpatrol.com/title/the-last-dance,OCE
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,NZE,https://flixpatrol.com/title/extraction-2020,OCE
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,NZE,https://flixpatrol.com/title/never-have-i-ever,OCE
+17,Movie,Furious 7,USA,Action,2015-04-03,False,74%,80%,NZE,https://flixpatrol.com/title/furious-7,OCE
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,NZE,https://flixpatrol.com/title/too-hot-to-handle,OCE
+16,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,NZE,https://flixpatrol.com/title/code-8,OCE
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,OCE
+15,Movie,Coffee & Kareem,USA,Comedy,2020-04-03,True,50%,19%,NZE,https://flixpatrol.com/title/coffee-kareem,OCE
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,OCE
+14,Movie,Coffee & Kareem,USA,Comedy,2020-04-03,True,50%,19%,NZE,https://flixpatrol.com/title/coffee-kareem,OCE
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,OCE

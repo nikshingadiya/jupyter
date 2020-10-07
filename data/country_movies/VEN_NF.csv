@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,VEN,https://flixpatrol.com/title/the-emoji-movie,AME
+37,TV Show,Her Mother's Killer,,,2020-01-01,False,,,VEN,https://flixpatrol.com/title/her-mothers-killer,AME
+36,Movie,Santana,South Africa,Action,2020-08-28,False,39%,,VEN,https://flixpatrol.com/title/santana,AME
+36,TV Show,Her Mother's Killer,,,2020-01-01,False,,,VEN,https://flixpatrol.com/title/her-mothers-killer,AME
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,VEN,https://flixpatrol.com/title/the-sleepover,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,VEN,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,VEN,https://flixpatrol.com/title/project-power,AME
+34,TV Show,The Great Heist,,,2020-08-14,False,,,VEN,https://flixpatrol.com/title/the-great-heist,AME
+33,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,VEN,https://flixpatrol.com/title/wonder,AME
+33,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,VEN,https://flixpatrol.com/title/dark-desire,AME
+32,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,VEN,https://flixpatrol.com/title/wonder,AME
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,VEN,https://flixpatrol.com/title/locked-up,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,VEN,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,VEN,https://flixpatrol.com/title/dark-desire,AME
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,VEN,https://flixpatrol.com/title/milf-2018,AME
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,VEN,https://flixpatrol.com/title/dark-desire,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,VEN,https://flixpatrol.com/title/the-old-guard,AME
+29,Documentary TV,Down to Earth with Zac Efron,USA,Documentary,2020-07-10,True,82%,67%,VEN,https://flixpatrol.com/title/down-to-earth-with-zac-efron,AME
+28,Movie,American Assassin,USA,Action,2017-09-14,False,70%,35%,VEN,https://flixpatrol.com/title/american-assassin,AME
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,VEN,https://flixpatrol.com/title/dark-2017,AME
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,VEN,https://flixpatrol.com/title/365-days,AME
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,VEN,https://flixpatrol.com/title/dark-2017,AME
+26,Movie,Wasp Network,France,Drama,2020-06-19,True,58%,,VEN,https://flixpatrol.com/title/wasp-network,AME
+26,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,VEN,https://flixpatrol.com/title/dark-2017,AME

@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Grinch,USA,Action,2018-11-09,False,63%,58%,EGY,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,AFR
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,EGY,https://flixpatrol.com/title/lucifer,AFR
+36,Movie,Scarecrow,,,2019-01-01,False,,,EGY,https://flixpatrol.com/title/scarecrow-2019,AFR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,EGY,https://flixpatrol.com/title/lucifer,AFR
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,EGY,https://flixpatrol.com/title/project-power,AFR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,EGY,https://flixpatrol.com/title/lucifer,AFR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,EGY,https://flixpatrol.com/title/project-power,AFR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,EGY,https://flixpatrol.com/title/the-umbrella-academy,AFR
+33,Movie -- --,No Surrender,,,Movie,False,,,EGY,https://flixpatrol.com/title/no-surrender-0,AFR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,EGY,https://flixpatrol.com/title/the-umbrella-academy,AFR
+32,Movie,Jumanji: Welcome to the Jungle,USA,Adventure,2017-12-20,False,69%,76%,EGY,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,AFR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,EGY,https://flixpatrol.com/title/the-umbrella-academy,AFR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,EGY,https://flixpatrol.com/title/the-kissing-booth-2,AFR
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,EGY,https://flixpatrol.com/title/dark-desire,AFR
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,EGY,https://flixpatrol.com/title/milf-2018,AFR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,EGY,https://flixpatrol.com/title/cursed-2020,AFR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,EGY,https://flixpatrol.com/title/the-old-guard,AFR
+29,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,EGY,https://flixpatrol.com/title/dark-2017,AFR
+28,Movie,The Mask,USA,Comedy,1994-07-29,False,69%,77%,EGY,https://flixpatrol.com/title/the-mask,AFR
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,EGY,https://flixpatrol.com/title/dark-2017,AFR
+27,Movie,The Mask,USA,Comedy,1994-07-29,False,69%,77%,EGY,https://flixpatrol.com/title/the-mask,AFR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,EGY,https://flixpatrol.com/title/dark-2017,AFR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,EGY,https://flixpatrol.com/title/365-days,AFR
+26,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,EGY,https://flixpatrol.com/title/dark-2017,AFR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,EGY,https://flixpatrol.com/title/365-days,AFR
+25,TV Show,Rayyah El Madame,,,Egypt,False,61%,,EGY,https://flixpatrol.com/title/rayyah-el-madame,AFR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,EGY,https://flixpatrol.com/title/365-days,AFR
+24,TV Show,Rayyah El Madame,,,Egypt,False,61%,,EGY,https://flixpatrol.com/title/rayyah-el-madame,AFR
+23,Movie,122,Egypt,Thriller,2019-01-02,False,72%,,EGY,https://flixpatrol.com/title/122,AFR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,EGY,https://flixpatrol.com/title/space-force,AFR
+22,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,EGY,https://flixpatrol.com/title/extraction-2020,AFR
+22,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,EGY,https://flixpatrol.com/title/snowpiercer-2020,AFR
+21,Movie,X-Large,Egypt,Comedy,2011-11-01,False,73%,,EGY,https://flixpatrol.com/title/x-large,AFR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,EGY,https://flixpatrol.com/title/white-lines,AFR
+20,Movie,Geostorm,USA,Thriller,2017-10-13,False,59%,13%,EGY,https://flixpatrol.com/title/geostorm,AFR
+20,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,EGY,https://flixpatrol.com/title/too-hot-to-handle,AFR
+19,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,EGY,https://flixpatrol.com/title/extraction-2020,AFR
+19,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,EGY,https://flixpatrol.com/title/never-have-i-ever,AFR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,EGY,https://flixpatrol.com/title/extraction-2020,AFR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,EGY,https://flixpatrol.com/title/never-have-i-ever,AFR
+17,Movie,Emerson Heights,USA,Romance,2018-02-24,False,71%,,EGY,https://flixpatrol.com/title/emerson-heights,AFR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,EGY,https://flixpatrol.com/title/too-hot-to-handle,AFR
+16,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,EGY,https://flixpatrol.com/title/miracle-in-cell-no-7,AFR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,EGY,https://flixpatrol.com/title/money-heist,AFR
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,EGY,https://flixpatrol.com/title/money-heist-the-phenomenon,AFR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,EGY,https://flixpatrol.com/title/money-heist,AFR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,EGY,https://flixpatrol.com/title/the-platform,AFR
+14,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,EGY,https://flixpatrol.com/title/money-heist,AFR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,EGY,https://flixpatrol.com/title/the-platform,AFR
+13,TV Show,Elite,Spain,Crime,2018-10-05,True,76%,97%,EGY,https://flixpatrol.com/title/elite,AFR

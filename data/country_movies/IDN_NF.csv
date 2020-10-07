@@ -1,0 +1,7 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+19,Documentary,Becoming,USA,Documentary,2020-05-06,True,64%,92%,IDN,https://flixpatrol.com/title/becoming,ASI
+19,TV Show,Outer Banks,USA,Mystery,2020-04-15,True,80%,70%,IDN,https://flixpatrol.com/title/outer-banks,ASI
+18,Movie,5Gang: A different kind of Christmas,Romania,,2019-01-01,False,15%,,IDN,https://flixpatrol.com/title/5gang-a-different-kind-of-christmas,ASI
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,IDN,https://flixpatrol.com/title/never-have-i-ever,ASI
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,IDN,https://flixpatrol.com/title/extraction-2020,ASI
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,IDN,https://flixpatrol.com/title/too-hot-to-handle,ASI

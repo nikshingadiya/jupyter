@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,ROU,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ROU,https://flixpatrol.com/title/lucifer,EUR
+36,Movie,A Simple Favor,USA,Crime,2018-09-13,False,71%,86%,ROU,https://flixpatrol.com/title/a-simple-favor,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ROU,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ROU,https://flixpatrol.com/title/project-power,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ROU,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ROU,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,ROU,https://flixpatrol.com/title/dark-desire,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ROU,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,ROU,https://flixpatrol.com/title/dark-desire,EUR
+32,Movie,Sicario: Day Of The Soldado,USA,Crime,2018-06-29,False,76%,62%,ROU,https://flixpatrol.com/title/sicario-2-soldado,EUR
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ROU,https://flixpatrol.com/title/locked-up,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ROU,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,ROU,https://flixpatrol.com/title/dark-desire,EUR
+30,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ROU,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,ROU,https://flixpatrol.com/title/dark-desire,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,ROU,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,ROU,https://flixpatrol.com/title/warrior-nun,EUR
+28,Movie,Desperados,USA,Comedy,2020-07-03,True,51%,15%,ROU,https://flixpatrol.com/title/desperados-2020,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,ROU,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ROU,https://flixpatrol.com/title/365-days,EUR
+27,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,ROU,https://flixpatrol.com/title/warrior-nun,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ROU,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,The Order,USA,Fantasy,2019-03-07,True,69%,100%,ROU,https://flixpatrol.com/title/the-order-2019,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ROU,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,ROU,https://flixpatrol.com/title/snowpiercer-2020,EUR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ROU,https://flixpatrol.com/title/365-days,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,ROU,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,John Wick: Chapter 3 – Parabellum,USA,Action,2019-05-15,False,82%,,ROU,https://flixpatrol.com/title/john-wick-chapter-3-–-parabellum,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,ROU,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Intuition,Argentina,Crime,2020-05-28,True,59%,,ROU,https://flixpatrol.com/title/intuition,EUR
+22,TV Show,Dynasty,USA,Drama,2017-10-11,True,59%,80%,ROU,https://flixpatrol.com/title/dynasty-2017,EUR
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ROU,https://flixpatrol.com/title/the-wrong-missy,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,ROU,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ROU,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,TV Show,Valeria,Spain,Drama,2020-05-08,True,58%,,ROU,https://flixpatrol.com/title/valeria,EUR
+19,Movie,Cold Pursuit,USA,Action,2019-02-07,False,67%,73%,ROU,https://flixpatrol.com/title/cold-pursuit,EUR
+19,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ROU,https://flixpatrol.com/title/too-hot-to-handle,EUR
+18,Movie,5Gang: A different kind of Christmas,Romania,,2019-01-01,False,15%,,ROU,https://flixpatrol.com/title/5gang-a-different-kind-of-christmas,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,ROU,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Earth and Blood,France,Action,2020-04-17,True,50%,,ROU,https://flixpatrol.com/title/earth-and-blood,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ROU,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,ROU,https://flixpatrol.com/title/love-wedding-repeat,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ROU,https://flixpatrol.com/title/money-heist,EUR
+15,Movie,Miami Bici,Romania,Comedy,2020-02-21,True,73%,,ROU,https://flixpatrol.com/title/miami-bici,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ROU,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,Miami Bici,Romania,Comedy,2020-02-21,True,73%,,ROU,https://flixpatrol.com/title/miami-bici,EUR
+14,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,ROU,https://flixpatrol.com/title/toy-boy-2019,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,ROU,https://flixpatrol.com/title/the-platform,EUR
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,ROU,https://flixpatrol.com/title/toy-boy-2019,EUR

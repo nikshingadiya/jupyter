@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,BOL,https://flixpatrol.com/title/the-emoji-movie,AME
+37,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,BOL,https://flixpatrol.com/title/cobra-kai,AME
+36,Movie,The Emoji Movie,USA,Animated,2017-07-28,False,14%,8%,BOL,https://flixpatrol.com/title/the-emoji-movie,AME
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,BOL,https://flixpatrol.com/title/cobra-kai,AME
+35,Movie,Escape Plan,USA,Action,2013-11-13,False,68%,49%,BOL,https://flixpatrol.com/title/escape-plan,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,BOL,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,BOL,https://flixpatrol.com/title/project-power,AME
+34,TV Show,Yo soy Betty la fea,Colombia,,1999-10-25,False,81%,,BOL,https://flixpatrol.com/title/yo-soy-betty-la-fea,AME
+33,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,BOL,https://flixpatrol.com/title/wonder,AME
+33,TV Show,The Seven Deadly Sins,Japan,Animation,2014-10-05,True,82%,,BOL,https://flixpatrol.com/title/the-seven-deadly-sins,AME
+32,Movie,Wonder,USA,Drama,2017-11-13,False,80%,93%,BOL,https://flixpatrol.com/title/wonder,AME
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,BOL,https://flixpatrol.com/title/locked-up,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,BOL,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BOL,https://flixpatrol.com/title/dark-desire,AME
+30,Movie,Norbit,USA,Comedy,2007-02-08,False,39%,9%,BOL,https://flixpatrol.com/title/norbit,AME
+30,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BOL,https://flixpatrol.com/title/dark-desire,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,BOL,https://flixpatrol.com/title/the-old-guard,AME
+29,TV Show,Dark Desire,Mexico,Drama,2020-07-15,True,75%,,BOL,https://flixpatrol.com/title/dark-desire,AME
+28,Movie,American Assassin,USA,Action,2017-09-14,False,70%,35%,BOL,https://flixpatrol.com/title/american-assassin,AME
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,BOL,https://flixpatrol.com/title/dark-2017,AME
+27,Movie,Baby Driver,USA,Action,2017-06-28,False,78%,92%,BOL,https://flixpatrol.com/title/baby-driver,AME
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,BOL,https://flixpatrol.com/title/dark-2017,AME
+26,Movie,Feel the Beat,USA,Comedy,2020-06-19,True,64%,46%,BOL,https://flixpatrol.com/title/feel-the-beat-2020,AME
+26,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,BOL,https://flixpatrol.com/title/dark-2017,AME
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,BOL,https://flixpatrol.com/title/365-days,AME
+25,TV Show,Yo soy Betty la fea,Colombia,,1999-10-25,False,81%,,BOL,https://flixpatrol.com/title/yo-soy-betty-la-fea,AME
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,BOL,https://flixpatrol.com/title/365-days,AME
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,BOL,https://flixpatrol.com/title/13-reasons-why,AME
+23,Movie,Grown Ups,USA,Comedy,2010-06-24,False,60%,10%,BOL,https://flixpatrol.com/title/grown-ups,AME
+23,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,BOL,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,AME
+22,Movie,Ted,USA,Comedy,2012-06-29,False,70%,41%,BOL,https://flixpatrol.com/title/ted,AME
+22,TV Show,Control Z,Mexico,Drama,2020-05-22,True,70%,67%,BOL,https://flixpatrol.com/title/control-z,AME
+21,Movie,Going in Style,USA,Comedy,2017-04-06,False,68%,49%,BOL,https://flixpatrol.com/title/going-in-style,AME
+21,TV Show,Boys Over Flowers,South Korea,Drama,2009-01-05,False,81%,,BOL,https://flixpatrol.com/title/boys-over-flowers,AME
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,BOL,https://flixpatrol.com/title/the-wrong-missy,AME
+20,TV Show,Valeria,Spain,Drama,2020-05-08,True,58%,,BOL,https://flixpatrol.com/title/valeria,AME
+19,Movie,Space Jam,USA,Comedy,1996-11-15,False,63%,38%,BOL,https://flixpatrol.com/title/space-jam,AME
+19,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,BOL,https://flixpatrol.com/title/never-have-i-ever,AME
+18,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,BOL,https://flixpatrol.com/title/dangerous-lies,AME
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,BOL,https://flixpatrol.com/title/never-have-i-ever,AME
+17,Movie,Focus,USA,Crime,2015-02-27,False,66%,56%,BOL,https://flixpatrol.com/title/focus,AME
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,BOL,https://flixpatrol.com/title/too-hot-to-handle,AME
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,BOL,https://flixpatrol.com/title/love-wedding-repeat,AME
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,BOL,https://flixpatrol.com/title/money-heist,AME
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,BOL,https://flixpatrol.com/title/money-heist-the-phenomenon,AME
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,BOL,https://flixpatrol.com/title/money-heist,AME
+14,Movie,Miracle in Cell No. 7,Turkey,Drama,2019-10-10,False,83%,,BOL,https://flixpatrol.com/title/miracle-in-cell-no-7,AME
+14,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,BOL,https://flixpatrol.com/title/toy-boy-2019,AME
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,BOL,https://flixpatrol.com/title/the-platform,AME
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,BOL,https://flixpatrol.com/title/toy-boy-2019,AME

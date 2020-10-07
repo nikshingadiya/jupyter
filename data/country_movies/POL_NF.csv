@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,POL,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,POL,https://flixpatrol.com/title/away-2020,EUR
+36,Movie -- --,Politics,,,Movie,False,,,POL,https://flixpatrol.com/title/politics,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,POL,https://flixpatrol.com/title/lucifer,EUR
+35,Movie -- --,Politics,,,Movie,False,,,POL,https://flixpatrol.com/title/politics,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,POL,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,POL,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,POL,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,POL,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,POL,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,POL,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,POL,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,POL,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,POL,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,Zenek,,,2020-02-14,False,,,POL,https://flixpatrol.com/title/zenek,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,POL,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,POL,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,POL,https://flixpatrol.com/title/cursed-2020,EUR
+28,Movie,Pitbull. Last Dog,,,2018-03-15,False,,,POL,https://flixpatrol.com/title/pitbull-last-dog,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,POL,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,POL,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,POL,https://flixpatrol.com/title/dark-2017,EUR
+26,Movie,Playing Hard,Poland,Drama,2019-01-04,False,64%,,POL,https://flixpatrol.com/title/playing-hard-2019,EUR
+26,TV Show,The Woods,USA,Crime,2020-06-12,True,65%,,POL,https://flixpatrol.com/title/the-woods-2020,EUR
+25,Movie,Playing Hard,Poland,Drama,2019-01-04,False,64%,,POL,https://flixpatrol.com/title/playing-hard-2019,EUR
+25,TV Show,The Woods,USA,Crime,2020-06-12,True,65%,,POL,https://flixpatrol.com/title/the-woods-2020,EUR
+24,Movie,Jak zostałem gangsterem. Historia prawdziwa,Poland,,2020-01-02,False,,,POL,https://flixpatrol.com/title/jak-zostalem-gangsterem-historia-prawdziwa,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,POL,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,Jak zostałem gangsterem. Historia prawdziwa,Poland,,2020-01-02,False,,,POL,https://flixpatrol.com/title/jak-zostalem-gangsterem-historia-prawdziwa,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,POL,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Harry Potter and the Chamber of Secrets,United Kingdom,Fantasy,2002-11-03,False,74%,82%,POL,https://flixpatrol.com/title/harry-potter-and-the-chamber-of-secrets,EUR
+22,TV Show,Dynasty,USA,Drama,2017-10-11,True,59%,80%,POL,https://flixpatrol.com/title/dynasty-2017,EUR
+21,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,2001-11-04,False,75%,,POL,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,EUR
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,POL,https://flixpatrol.com/title/the-last-dance,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,POL,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,POL,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Rich in Love,Brazil,Comedy,2020-04-30,True,58%,,POL,https://flixpatrol.com/title/rich-in-love,EUR
+19,TV Show,Into the Night,Belgium,Science Fiction,2020-05-01,True,72%,76%,POL,https://flixpatrol.com/title/into-the-night-2020,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,POL,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,POL,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,POL,https://flixpatrol.com/title/skyscraper,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,POL,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Skyscraper,USA,Action,2018-07-04,False,61%,48%,POL,https://flixpatrol.com/title/skyscraper,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,POL,https://flixpatrol.com/title/money-heist,EUR
+15,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,POL,https://flixpatrol.com/title/365-days,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,POL,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,POL,https://flixpatrol.com/title/365-days,EUR
+14,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,POL,https://flixpatrol.com/title/toy-boy-2019,EUR
+13,Movie,Nobody Sleeps In The Woods Tonight,Poland,Horror,2020-03-13,False,,,POL,https://flixpatrol.com/title/nobody-sleeps-in-the-woods-tonight,EUR
+13,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,POL,https://flixpatrol.com/title/toy-boy-2019,EUR
+12,Movie,Nobody Sleeps In The Woods Tonight,Poland,Horror,2020-03-13,False,,,POL,https://flixpatrol.com/title/nobody-sleeps-in-the-woods-tonight,EUR
+12,TV Show,Toy Boy,Spain,Crime,2019-09-07,True,65%,,POL,https://flixpatrol.com/title/toy-boy-2019,EUR

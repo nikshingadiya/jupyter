@@ -1,0 +1,25 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,A Million Ways to Die in the West,USA,Comedy,2014-05-30,False,61%,33%,ISL,https://flixpatrol.com/title/a-million-ways-to-die-in-the-west,EUR
+37,TV Show,Young Wallander,Sweden,Crime,2020-09-03,True,69%,,ISL,https://flixpatrol.com/title/young-wallander,EUR
+36,Movie,Wonder Park,USA,Animated,2019-03-14,False,57%,29%,ISL,https://flixpatrol.com/title/wonder-park,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ISL,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,ISL,https://flixpatrol.com/title/the-sleepover,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ISL,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ISL,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,Dirty John,USA,Drama,2018-11-25,True,69%,71%,ISL,https://flixpatrol.com/title/dirty-john,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ISL,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ISL,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,Mission: Impossible - Fallout,USA,Action,2018-07-13,False,80%,97%,ISL,https://flixpatrol.com/title/mission-impossible-fallout,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ISL,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ISL,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Good Girls,USA,Comedy,2018-02-26,True,78%,87%,ISL,https://flixpatrol.com/title/good-girls,EUR
+30,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,ISL,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ISL,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,ISL,https://flixpatrol.com/title/the-old-guard,EUR
+29,Documentary TV,Down to Earth with Zac Efron,USA,Documentary,2020-07-10,True,82%,67%,ISL,https://flixpatrol.com/title/down-to-earth-with-zac-efron,EUR
+28,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,ISL,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+28,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,ISL,https://flixpatrol.com/title/unsolved-mysteries-2020,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,ISL,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,ISL,https://flixpatrol.com/title/unsolved-mysteries-2020,EUR
+26,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,ISL,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,ISL,https://flixpatrol.com/title/floor-is-lava,EUR

@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,I'm Thinking of Ending Things,USA,Thriller,2020-09-04,True,88%,85%,RUS,https://flixpatrol.com/title/im-thinking-of-ending-things,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,RUS,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,RUS,https://flixpatrol.com/title/project-power,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,RUS,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,RUS,https://flixpatrol.com/title/project-power,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,RUS,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,RUS,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,RUS,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,RUS,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,RUS,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,RUS,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,RUS,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,RUS,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,RUS,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,RUS,https://flixpatrol.com/title/the-old-guard,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,RUS,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,RUS,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+28,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,RUS,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+28,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,RUS,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,RUS,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,RUS,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,RUS,https://flixpatrol.com/title/365-days,EUR
+24,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+23,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,RUS,https://flixpatrol.com/title/extraction-2020,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,RUS,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,RUS,https://flixpatrol.com/title/extraction-2020,EUR
+22,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,RUS,https://flixpatrol.com/title/snowpiercer-2020,EUR
+21,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,RUS,https://flixpatrol.com/title/extraction-2020,EUR
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,RUS,https://flixpatrol.com/title/the-last-dance,EUR
+20,Documentary,Have a Good Trip: Adventures in Psychedelics,USA,Documentary,2020-05-11,True,73%,47%,RUS,https://flixpatrol.com/title/have-a-good-trip-adventures-in-psychedelics,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,RUS,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,RUS,https://flixpatrol.com/title/extraction-2020,EUR
+19,TV Show,Hollywood,USA,Drama,2020-05-01,True,65%,57%,RUS,https://flixpatrol.com/title/hollywood-2020,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,RUS,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,RUS,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,6 Underground,USA,Action,2019-12-13,True,61%,36%,RUS,https://flixpatrol.com/title/6-underground,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,RUS,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,RUS,https://flixpatrol.com/title/love-wedding-repeat,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,RUS,https://flixpatrol.com/title/money-heist,EUR
+15,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,RUS,https://flixpatrol.com/title/the-platform,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,RUS,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,RUS,https://flixpatrol.com/title/the-platform,EUR
+14,TV Show,Ozark,USA,Crime,2017-07-21,True,84%,81%,RUS,https://flixpatrol.com/title/ozark,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,RUS,https://flixpatrol.com/title/the-platform,EUR
+13,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,RUS,https://flixpatrol.com/title/freud,EUR

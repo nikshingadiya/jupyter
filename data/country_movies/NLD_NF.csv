@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Sing,USA,Animated,2016-12-21,False,73%,47%,NLD,https://flixpatrol.com/title/sing,EUR
+37,TV Show,Undercover,Belgium,Crime,2019-02-24,True,80%,83%,NLD,https://flixpatrol.com/title/undercover,EUR
+36,Movie,A Star is Born,USA,Drama,2018-05-16,False,82%,90%,NLD,https://flixpatrol.com/title/a-star-is-born-2018,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NLD,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,A Star is Born,USA,Drama,2018-05-16,False,82%,90%,NLD,https://flixpatrol.com/title/a-star-is-born-2018,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NLD,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,NLD,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NLD,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,NLD,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NLD,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,American Sniper,USA,War,2014-12-25,False,73%,,NLD,https://flixpatrol.com/title/american-sniper,EUR
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,NLD,https://flixpatrol.com/title/locked-up,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,NLD,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NLD,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,Fatal Affair,USA,Drama,2020-07-16,False,46%,,NLD,https://flixpatrol.com/title/fatal-affair,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NLD,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,NLD,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NLD,https://flixpatrol.com/title/cursed-2020,EUR
+28,Movie,Charlie and the Chocolate Factory,USA,Fantasy,2005-07-09,False,67%,83%,NLD,https://flixpatrol.com/title/charlie-and-the-chocolate-factory,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NLD,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,Escape From Pretoria,United Kingdom,,2020-03-06,False,68%,68%,NLD,https://flixpatrol.com/title/escape-from-pretoria-2020,EUR
+27,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,NLD,https://flixpatrol.com/title/the-sinner,EUR
+26,Movie,The Meg,USA,Horror,2018-08-10,False,67%,46%,NLD,https://flixpatrol.com/title/the-meg,EUR
+26,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,NLD,https://flixpatrol.com/title/the-sinner,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NLD,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,NLD,https://flixpatrol.com/title/13-reasons-why,EUR
+24,Movie,Assassin's Creed,USA,Science Fiction,2016-12-21,False,64%,18%,NLD,https://flixpatrol.com/title/assassins-creed,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,NLD,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,Wind River,USA,Crime,2017-08-03,False,78%,86%,NLD,https://flixpatrol.com/title/wind-river,EUR
+23,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,NLD,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,EUR
+22,Movie,Midway,USA,War,2019-11-06,False,69%,,NLD,https://flixpatrol.com/title/midway-2019,EUR
+22,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,NLD,https://flixpatrol.com/title/white-lines,EUR
+21,Movie,Killerman,USA,Action,2019-08-08,False,56%,26%,NLD,https://flixpatrol.com/title/killerman,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,NLD,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,NLD,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NLD,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,NLD,https://flixpatrol.com/title/dangerous-lies,EUR
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NLD,https://flixpatrol.com/title/the-last-dance,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,NLD,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,NLD,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Ocean's 8,USA,Crime,2018-06-08,False,62%,,NLD,https://flixpatrol.com/title/oceans-8,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,NLD,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Central Intelligence,USA,Action,2016-06-15,False,64%,69%,NLD,https://flixpatrol.com/title/central-intelligence,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,NLD,https://flixpatrol.com/title/money-heist,EUR
+15,Movie,Focus,USA,Crime,2015-02-27,False,66%,56%,NLD,https://flixpatrol.com/title/focus,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,NLD,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,Angel Has Fallen,USA,Action,2019-08-21,False,64%,39%,NLD,https://flixpatrol.com/title/angel-has-fallen,EUR
+14,TV Show,Ozark,USA,Crime,2017-07-21,True,84%,81%,NLD,https://flixpatrol.com/title/ozark,EUR
+13,Movie,Angel Has Fallen,USA,Action,2019-08-21,False,64%,39%,NLD,https://flixpatrol.com/title/angel-has-fallen,EUR
+13,TV Show,The Letter for the King,United Kingdom,Fantasy,2020-03-20,True,59%,60%,NLD,https://flixpatrol.com/title/the-letter-for-the-king-2020,EUR
+12,Movie,John Wick: Chapter 3 – Parabellum,USA,Action,2019-05-15,False,82%,,NLD,https://flixpatrol.com/title/john-wick-chapter-3-–-parabellum,EUR
+12,TV Show,The Letter for the King,United Kingdom,Fantasy,2020-03-20,True,59%,60%,NLD,https://flixpatrol.com/title/the-letter-for-the-king-2020,EUR

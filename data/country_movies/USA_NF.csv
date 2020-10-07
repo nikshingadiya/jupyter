@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,USA,https://flixpatrol.com/title/love-guaranteed,AME
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,USA,https://flixpatrol.com/title/away-2020,AME
+36,Movie,The Frozen Ground,USA,,2013-08-23,False,64%,,USA,https://flixpatrol.com/title/the-frozen-ground,AME
+36,TV Show,Cobra Kai,USA,Action,2018-05-02,False,88%,94%,USA,https://flixpatrol.com/title/cobra-kai,AME
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,USA,https://flixpatrol.com/title/project-power,AME
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,USA,https://flixpatrol.com/title/lucifer,AME
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,USA,https://flixpatrol.com/title/project-power,AME
+34,TV Show,The Legend of Korra,USA,Fantasy,2012-04-14,False,86%,,USA,https://flixpatrol.com/title/the-legend-of-korra,AME
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,USA,https://flixpatrol.com/title/work-it-2020,AME
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,USA,https://flixpatrol.com/title/the-umbrella-academy,AME
+32,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,USA,https://flixpatrol.com/title/work-it-2020,AME
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,USA,https://flixpatrol.com/title/the-umbrella-academy,AME
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,USA,https://flixpatrol.com/title/the-kissing-booth-2,AME
+31,TV Show,Shameless,USA,Comedy,2011-01-09,False,87%,,USA,https://flixpatrol.com/title/shameless,AME
+30,Movie,Fatal Affair,USA,Drama,2020-07-16,False,46%,,USA,https://flixpatrol.com/title/fatal-affair,AME
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,USA,https://flixpatrol.com/title/cursed-2020,AME
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,USA,https://flixpatrol.com/title/the-old-guard,AME
+29,Documentary TV,The Business of Drugs,USA,Documentary,2020-07-14,True,70%,,USA,https://flixpatrol.com/title/the-business-of-drugs,AME
+28,Movie,The Lorax,USA,Animated,2012-03-01,False,65%,53%,USA,https://flixpatrol.com/title/the-lorax,AME
+28,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,USA,https://flixpatrol.com/title/unsolved-mysteries-2020,AME
+27,Movie,Patriots Day,USA,Drama,2016-12-12,False,74%,90%,USA,https://flixpatrol.com/title/patriots-day,AME
+27,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,USA,https://flixpatrol.com/title/unsolved-mysteries-2020,AME
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,USA,https://flixpatrol.com/title/365-days,AME
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,USA,https://flixpatrol.com/title/floor-is-lava,AME
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,USA,https://flixpatrol.com/title/365-days,AME
+25,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,USA,https://flixpatrol.com/title/13-reasons-why,AME
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,USA,https://flixpatrol.com/title/365-days,AME
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,USA,https://flixpatrol.com/title/13-reasons-why,AME
+23,Movie,Uncut Gems,USA,Crime,2019-08-30,True,81%,92%,USA,https://flixpatrol.com/title/uncut-gems,AME
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,USA,https://flixpatrol.com/title/space-force,AME
+22,Movie,Uncut Gems,USA,Crime,2019-08-30,True,81%,92%,USA,https://flixpatrol.com/title/uncut-gems,AME
+22,TV Show,Sweet Magnolias,USA,Drama,2020-05-19,True,69%,86%,USA,https://flixpatrol.com/title/sweet-magnolias,AME
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,USA,https://flixpatrol.com/title/the-wrong-missy,AME
+21,TV Show,Avatar: The Last Airbender,USA,Fantasy,2005-02-21,False,92%,100%,USA,https://flixpatrol.com/title/avatar-the-last-airbender,AME
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,USA,https://flixpatrol.com/title/the-wrong-missy,AME
+20,TV Show,Dead to Me,USA,Drama,2019-05-03,True,80%,91%,USA,https://flixpatrol.com/title/dead-to-me,AME
+19,Documentary,Becoming,USA,Documentary,2020-05-06,True,64%,92%,USA,https://flixpatrol.com/title/becoming,AME
+19,TV Show,Outer Banks,USA,Mystery,2020-04-15,True,80%,70%,USA,https://flixpatrol.com/title/outer-banks,AME
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,USA,https://flixpatrol.com/title/extraction-2020,AME
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,USA,https://flixpatrol.com/title/never-have-i-ever,AME
+17,Movie,Despicable Me,USA,Animated,2010-07-09,False,77%,81%,USA,https://flixpatrol.com/title/despicable-me,AME
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,USA,https://flixpatrol.com/title/too-hot-to-handle,AME
+16,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,USA,https://flixpatrol.com/title/code-8,AME
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,USA,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+15,Movie,Angel Has Fallen,USA,Action,2019-08-21,False,64%,39%,USA,https://flixpatrol.com/title/angel-has-fallen,AME
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,USA,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+14,Movie,Blood Father,France,Thriller,2016-08-11,False,65%,88%,USA,https://flixpatrol.com/title/blood-father,AME
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,USA,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,USA,https://flixpatrol.com/title/the-platform,AME
+13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,USA,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,AME
+12,Movie,Spenser Confidential,USA,Crime,2020-03-06,True,71%,37%,USA,https://flixpatrol.com/title/spenser-confidential,AME
+12,TV Show,All American,USA,Drama,2018-10-10,False,63%,96%,USA,https://flixpatrol.com/title/all-american,AME

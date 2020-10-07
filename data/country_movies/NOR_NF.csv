@@ -1,0 +1,51 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,A Million Ways to Die in the West,USA,Comedy,2014-05-30,False,61%,33%,NOR,EUR
+37,TV Show,Young Wallander,Sweden,Crime,2020-09-03,True,69%,,NOR,https://flixpatrol.com/title/young-wallander,EUR
+36,Movie,Robin Hood,USA,Adventure,2018-09-01,False,53%,15%,NOR,https://flixpatrol.com/title/robin-hood-2018,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NOR,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,NOR,https://flixpatrol.com/title/project-power,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,NOR,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,NOR,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,Dirty John,USA,Drama,2018-11-25,True,69%,71%,NOR,https://flixpatrol.com/title/dirty-john,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,NOR,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NOR,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,Malibu Rescue: The Next Wave,USA,Comedy,2020-08-04,True,59%,,NOR,https://flixpatrol.com/title/malibu-rescue-the-next-wave,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,NOR,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,NOR,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Modern Family,USA,Comedy,2009-09-23,False,84%,,NOR,https://flixpatrol.com/title/modern-family,EUR
+30,Movie,Venom,USA,Superhero,2018-10-03,False,71%,29%,NOR,https://flixpatrol.com/title/venom-2018,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,NOR,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,NOR,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Snowpiercer,USA,Science Fiction,2020-05-17,True,61%,62%,NOR,https://flixpatrol.com/title/snowpiercer-2020,EUR
+28,Movie,It: Chapter 2,USA,Horror,2019-09-05,False,70%,63%,NOR,https://flixpatrol.com/title/it-chapter-2,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,NOR,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,NOR,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,NOR,https://flixpatrol.com/title/unsolved-mysteries-2020,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NOR,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,NOR,https://flixpatrol.com/title/floor-is-lava,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NOR,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Brooklyn Nine-Nine,USA,Comedy,2013-09-17,False,83%,97%,NOR,https://flixpatrol.com/title/brooklyn-nine-nine,EUR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,NOR,https://flixpatrol.com/title/365-days,EUR
+24,TV Show,Brooklyn Nine-Nine,USA,Comedy,2013-09-17,False,83%,97%,NOR,https://flixpatrol.com/title/brooklyn-nine-nine,EUR
+23,Movie,Johnny English Strikes Again,United Kingdom,Comedy,2018-09-13,False,66%,34%,NOR,https://flixpatrol.com/title/johnny-english-3,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,NOR,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Johnny English Strikes Again,United Kingdom,Comedy,2018-09-13,False,66%,34%,NOR,https://flixpatrol.com/title/johnny-english-3,EUR
+22,Documentary TV,Jeffrey Epstein: Filthy Rich,USA,Documentary,2020-05-27,True,72%,79%,NOR,https://flixpatrol.com/title/jeffrey-epstein-filthy-rich,EUR
+21,Movie,Bumblebee,USA,Science Fiction,2018-12-15,False,73%,93%,NOR,https://flixpatrol.com/title/bumblebee,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,NOR,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,NOR,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NOR,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,NOR,https://flixpatrol.com/title/dangerous-lies,EUR
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,NOR,https://flixpatrol.com/title/the-last-dance,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,NOR,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,NOR,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Despicable Me 2,USA,Animated,2013-06-25,False,74%,73%,NOR,https://flixpatrol.com/title/despicable-me-2,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,NOR,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,NOR,https://flixpatrol.com/title/code-8,EUR
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NOR,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,EUR
+15,Movie,Coffee & Kareem,USA,Comedy,2020-04-03,True,50%,19%,NOR,https://flixpatrol.com/title/coffee-kareem,EUR
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NOR,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,EUR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,NOR,https://flixpatrol.com/title/the-platform,EUR
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NOR,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,NOR,https://flixpatrol.com/title/the-platform,EUR
+13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",USA,Documentary,2020-03-20,True,81%,,NOR,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,EUR

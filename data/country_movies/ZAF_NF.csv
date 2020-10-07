@@ -1,0 +1,49 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,ZAF,https://flixpatrol.com/title/love-guaranteed,AFR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,ZAF,https://flixpatrol.com/title/away-2020,AFR
+36,Movie,Jumanji: The Next Level,USA,Adventure,2019-12-04,False,70%,67%,ZAF,https://flixpatrol.com/title/jumanji-the-next-level,AFR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ZAF,https://flixpatrol.com/title/lucifer,AFR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,ZAF,https://flixpatrol.com/title/the-sleepover,AFR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ZAF,https://flixpatrol.com/title/lucifer,AFR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ZAF,https://flixpatrol.com/title/project-power,AFR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ZAF,https://flixpatrol.com/title/the-umbrella-academy,AFR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ZAF,https://flixpatrol.com/title/work-it-2020,AFR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ZAF,https://flixpatrol.com/title/the-umbrella-academy,AFR
+32,Movie,Seriously Single,South Africa,Comedy,2020-07-31,True,38%,,ZAF,https://flixpatrol.com/title/seriously-single,AFR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,ZAF,https://flixpatrol.com/title/the-umbrella-academy,AFR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ZAF,https://flixpatrol.com/title/the-kissing-booth-2,AFR
+31,TV Show,Good Girls,USA,Comedy,2018-02-26,True,78%,87%,ZAF,https://flixpatrol.com/title/good-girls,AFR
+30,Movie,Black and Blue,USA,Action,2019-10-25,False,60%,52%,ZAF,https://flixpatrol.com/title/black-and-blue,AFR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ZAF,https://flixpatrol.com/title/cursed-2020,AFR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,ZAF,https://flixpatrol.com/title/the-old-guard,AFR
+29,Documentary TV,Down to Earth with Zac Efron,USA,Documentary,2020-07-10,True,82%,67%,ZAF,https://flixpatrol.com/title/down-to-earth-with-zac-efron,AFR
+28,Movie,Desperados,USA,Comedy,2020-07-03,True,51%,15%,ZAF,https://flixpatrol.com/title/desperados-2020,AFR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,ZAF,https://flixpatrol.com/title/warrior-nun,AFR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,ZAF,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,AFR
+27,TV Show,Unsolved Mysteries,USA,Documentary,2020-07-01,True,80%,74%,ZAF,https://flixpatrol.com/title/unsolved-mysteries-2020,AFR
+26,Movie,Feel the Beat,USA,Comedy,2020-06-19,True,64%,46%,ZAF,https://flixpatrol.com/title/feel-the-beat-2020,AFR
+26,TV Show,Floor is Lava,USA,Reality-Show,2020-06-19,True,51%,83%,ZAF,https://flixpatrol.com/title/floor-is-lava,AFR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ZAF,https://flixpatrol.com/title/365-days,AFR
+25,TV Show,The Big Bang Theory,USA,Comedy,2007-09-24,False,84%,,ZAF,https://flixpatrol.com/title/the-big-bang-theory,AFR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ZAF,https://flixpatrol.com/title/365-days,AFR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,ZAF,https://flixpatrol.com/title/13-reasons-why,AFR
+23,Movie,The Angry Birds Movie 2,USA,Animated,2019-08-02,False,65%,73%,ZAF,https://flixpatrol.com/title/the-angry-birds-movie-2,AFR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,ZAF,https://flixpatrol.com/title/space-force,AFR
+22,Movie,A Quiet Place,USA,Horror,2018-04-03,False,80%,95%,ZAF,https://flixpatrol.com/title/a-quiet-place,AFR
+22,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,ZAF,https://flixpatrol.com/title/space-force,AFR
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ZAF,https://flixpatrol.com/title/the-wrong-missy,AFR
+21,TV Show,Blood & Water,South Africa,Drama,2020-05-20,True,51%,,ZAF,https://flixpatrol.com/title/blood-water,AFR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ZAF,https://flixpatrol.com/title/the-wrong-missy,AFR
+20,TV Show,Dead to Me,USA,Drama,2019-05-03,True,80%,91%,ZAF,https://flixpatrol.com/title/dead-to-me,AFR
+19,Movie,Dangerous Lies,USA,Thriller,2020-04-30,True,57%,41%,ZAF,https://flixpatrol.com/title/dangerous-lies,AFR
+19,TV Show,Modern Family,USA,Comedy,2009-09-23,False,84%,,ZAF,https://flixpatrol.com/title/modern-family,AFR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,ZAF,https://flixpatrol.com/title/extraction-2020,AFR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,ZAF,https://flixpatrol.com/title/never-have-i-ever,AFR
+17,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,ZAF,https://flixpatrol.com/title/extraction-2020,AFR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ZAF,https://flixpatrol.com/title/too-hot-to-handle,AFR
+16,Movie,Code 8,Canada,Science Fiction,2019-12-06,False,61%,79%,ZAF,https://flixpatrol.com/title/code-8,AFR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ZAF,https://flixpatrol.com/title/money-heist,AFR
+15,Movie,Fifty Shades Freed,USA,Romance,2018-02-07,False,34%,12%,ZAF,https://flixpatrol.com/title/fifty-shades-freed,AFR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ZAF,https://flixpatrol.com/title/money-heist,AFR
+14,Movie,Coffee & Kareem,USA,Comedy,2020-04-03,True,50%,19%,ZAF,https://flixpatrol.com/title/coffee-kareem,AFR
+14,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ZAF,https://flixpatrol.com/title/money-heist,AFR

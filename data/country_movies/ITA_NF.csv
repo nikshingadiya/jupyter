@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,Suicide Squad,USA,Superhero,2016-08-02,False,61%,25%,ITA,https://flixpatrol.com/title/suicide-squad,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,ITA,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,The Match,Croatia,Drama,2020-09-01,False,,,ITA,https://flixpatrol.com/title/the-match,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ITA,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,Venom,USA,Superhero,2018-10-03,False,71%,29%,ITA,https://flixpatrol.com/title/venom-2018,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,ITA,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,ITA,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ITA,https://flixpatrol.com/title/locked-up,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,ITA,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ITA,https://flixpatrol.com/title/locked-up,EUR
+32,Movie,The Mummy,USA,Adventure,2017-06-06,False,55%,13%,ITA,https://flixpatrol.com/title/the-mummy-2017,EUR
+32,TV Show,Locked Up,Spain,Drama,2015-04-20,True,83%,100%,ITA,https://flixpatrol.com/title/locked-up,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,ITA,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ITA,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,MILF,France,Comedy,2018-05-02,False,,14%,ITA,https://flixpatrol.com/title/milf-2018,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,ITA,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,ITA,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,ITA,https://flixpatrol.com/title/dark-2017,EUR
+28,Movie,Under the Riccione Sun,Italy,Comedy,2020-07-01,True,52%,,ITA,https://flixpatrol.com/title/under-the-riccione-sun,EUR
+28,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,ITA,https://flixpatrol.com/title/dark-2017,EUR
+27,Movie,Under the Riccione Sun,Italy,Comedy,2020-07-01,True,52%,,ITA,https://flixpatrol.com/title/under-the-riccione-sun,EUR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,ITA,https://flixpatrol.com/title/dark-2017,EUR
+26,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ITA,https://flixpatrol.com/title/365-days,EUR
+26,TV Show,The Order,USA,Fantasy,2019-03-07,True,69%,100%,ITA,https://flixpatrol.com/title/the-order-2019,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,ITA,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,Curon,Italy,Fantasy,2020-06-10,True,66%,71%,ITA,https://flixpatrol.com/title/curon,EUR
+24,Movie,The Last Days of American Crime,USA,Science Fiction,2020-06-05,True,40%,,ITA,https://flixpatrol.com/title/the-last-days-of-american-crime,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,ITA,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,Rampage,USA,Adventure,2018-04-19,False,66%,51%,ITA,https://flixpatrol.com/title/rampage,EUR
+23,TV Show,Dynasty,USA,Drama,2017-10-11,True,59%,80%,ITA,https://flixpatrol.com/title/dynasty-2017,EUR
+22,Movie,8 Mile,USA,Drama,2002-11-08,False,70%,76%,ITA,https://flixpatrol.com/title/8-mile,EUR
+22,TV Show,Dynasty,USA,Drama,2017-10-11,True,59%,80%,ITA,https://flixpatrol.com/title/dynasty-2017,EUR
+21,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ITA,https://flixpatrol.com/title/the-wrong-missy,EUR
+21,TV Show,White Lines,United Kingdom,Crime,2020-05-15,True,61%,64%,ITA,https://flixpatrol.com/title/white-lines,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,ITA,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,ITA,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Aftermath,USA,Drama,2017-04-06,False,57%,43%,ITA,https://flixpatrol.com/title/aftermath-2017,EUR
+19,TV Show,Summertime,Italy,Drama,2020-04-29,True,57%,83%,ITA,https://flixpatrol.com/title/summertime-2020,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,ITA,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Summertime,Italy,Drama,2020-04-29,True,57%,83%,ITA,https://flixpatrol.com/title/summertime-2020,EUR
+17,Movie,The Legacy of the Bones,Spain,Crime,2019-12-05,True,61%,,ITA,https://flixpatrol.com/title/the-legacy-of-the-bones,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,ITA,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Mission: Impossible - Fallout,USA,Action,2018-07-13,False,80%,97%,ITA,https://flixpatrol.com/title/mission-impossible-fallout,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ITA,https://flixpatrol.com/title/money-heist,EUR
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,2020-04-03,True,78%,,ITA,https://flixpatrol.com/title/money-heist-the-phenomenon,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,ITA,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,ITA,https://flixpatrol.com/title/the-platform,EUR
+14,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,ITA,https://flixpatrol.com/title/freud,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,ITA,https://flixpatrol.com/title/the-platform,EUR
+13,TV Show,Freud,Austria,Drama,2020-03-15,True,67%,50%,ITA,https://flixpatrol.com/title/freud,EUR
+12,Movie,Ultras,Italy,Drama,2020-03-09,True,63%,60%,ITA,https://flixpatrol.com/title/ultras,EUR
+12,TV Show,Elite,Spain,Crime,2018-10-05,True,76%,97%,ITA,https://flixpatrol.com/title/elite,EUR

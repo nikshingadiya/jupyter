@@ -1,0 +1,53 @@
+week,show_type,title,ori_country,genre,release_date,is_NF_Ori,imdb_rating,rt_rating,country_chart,show_link,Continent
+37,Movie,"Love, Guaranteed",USA,Comedy,2020-09-03,True,55%,50%,HUN,https://flixpatrol.com/title/love-guaranteed,EUR
+37,TV Show,Away,USA,Science Fiction,2020-09-04,True,71%,73%,HUN,https://flixpatrol.com/title/away-2020,EUR
+36,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,HUN,https://flixpatrol.com/title/project-power,EUR
+36,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,HUN,https://flixpatrol.com/title/lucifer,EUR
+35,Movie,The Sleepover,USA,Comedy,2020-08-21,True,55%,80%,HUN,https://flixpatrol.com/title/the-sleepover,EUR
+35,TV Show,Lucifer,USA,Superhero,2016-01-25,True,83%,87%,HUN,https://flixpatrol.com/title/lucifer,EUR
+34,Movie,Project Power,USA,Action,2020-08-14,True,61%,63%,HUN,https://flixpatrol.com/title/project-power,EUR
+34,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,HUN,https://flixpatrol.com/title/the-umbrella-academy,EUR
+33,Movie,Work It,USA,Comedy,2020-08-07,True,61%,,HUN,https://flixpatrol.com/title/work-it-2020,EUR
+33,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,HUN,https://flixpatrol.com/title/the-umbrella-academy,EUR
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,HUN,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+32,TV Show,The Umbrella Academy,USA,Superhero,2019-02-15,True,83%,82%,HUN,https://flixpatrol.com/title/the-umbrella-academy,EUR
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,2020-07-24,True,62%,28%,HUN,https://flixpatrol.com/title/the-kissing-booth-2,EUR
+31,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,HUN,https://flixpatrol.com/title/cursed-2020,EUR
+30,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,HUN,https://flixpatrol.com/title/the-old-guard,EUR
+30,TV Show,Cursed,USA,Fantasy,2020-07-17,True,51%,69%,HUN,https://flixpatrol.com/title/cursed-2020,EUR
+29,Movie,The Old Guard,USA,Superhero,2020-07-10,True,82%,80%,HUN,https://flixpatrol.com/title/the-old-guard,EUR
+29,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,HUN,https://flixpatrol.com/title/warrior-nun,EUR
+28,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,HUN,https://flixpatrol.com/title/365-days,EUR
+28,TV Show,Warrior Nun,USA,Fantasy,2020-07-02,True,69%,,HUN,https://flixpatrol.com/title/warrior-nun,EUR
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,USA,Comedy,2020-06-26,True,78%,63%,HUN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,EUR
+27,TV Show,Dark,Germany,Mystery,2017-12-01,True,87%,94%,HUN,https://flixpatrol.com/title/dark-2017,EUR
+26,Movie,Feel the Beat,USA,Comedy,2020-06-19,True,64%,46%,HUN,https://flixpatrol.com/title/feel-the-beat-2020,EUR
+26,TV Show,The Sinner,USA,Crime,2017-08-02,True,80%,90%,HUN,https://flixpatrol.com/title/the-sinner,EUR
+25,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,HUN,https://flixpatrol.com/title/365-days,EUR
+25,TV Show,The Woods,USA,Crime,2020-06-12,True,65%,,HUN,https://flixpatrol.com/title/the-woods-2020,EUR
+24,Movie,365 Days,Poland,Romance,2020-06-07,False,35%,,HUN,https://flixpatrol.com/title/365-days,EUR
+24,TV Show,13 Reasons Why,USA,Drama,2017-03-31,True,84%,39%,HUN,https://flixpatrol.com/title/13-reasons-why,EUR
+23,Movie,The Last Days of American Crime,USA,Science Fiction,2020-06-05,True,40%,,HUN,https://flixpatrol.com/title/the-last-days-of-american-crime,EUR
+23,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,HUN,https://flixpatrol.com/title/space-force,EUR
+22,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,2001-11-04,False,75%,,HUN,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,EUR
+22,TV Show,Space Force,USA,Comedy,2020-05-29,True,70%,41%,HUN,https://flixpatrol.com/title/space-force,EUR
+21,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,2001-11-04,False,75%,,HUN,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,EUR
+21,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,HUN,https://flixpatrol.com/title/the-last-dance,EUR
+20,Movie,The Wrong Missy,USA,Comedy,2020-05-13,True,56%,25%,HUN,https://flixpatrol.com/title/the-wrong-missy,EUR
+20,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,HUN,https://flixpatrol.com/title/the-last-dance,EUR
+19,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,HUN,https://flixpatrol.com/title/extraction-2020,EUR
+19,Documentary TV,The Last Dance,USA,Documentary,2020-04-19,True,94%,97%,HUN,https://flixpatrol.com/title/the-last-dance,EUR
+18,Movie,Extraction,USA,Action,2020-04-24,True,70%,68%,HUN,https://flixpatrol.com/title/extraction-2020,EUR
+18,TV Show,Never Have I Ever,USA,Comedy,2020-04-27,True,78%,98%,HUN,https://flixpatrol.com/title/never-have-i-ever,EUR
+17,Movie,Earth and Blood,France,Action,2020-04-17,True,50%,,HUN,https://flixpatrol.com/title/earth-and-blood,EUR
+17,TV Show,Too Hot to Handle,USA,Reality-Show,2020-04-17,True,42%,37%,HUN,https://flixpatrol.com/title/too-hot-to-handle,EUR
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,2020-04-10,True,55%,34%,HUN,https://flixpatrol.com/title/love-wedding-repeat,EUR
+16,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,HUN,https://flixpatrol.com/title/money-heist,EUR
+15,Movie,Coffee & Kareem,USA,Comedy,2020-04-03,True,50%,19%,HUN,https://flixpatrol.com/title/coffee-kareem,EUR
+15,TV Show,Money Heist,Spain,Action,2017-05-02,True,84%,93%,HUN,https://flixpatrol.com/title/money-heist,EUR
+14,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,HUN,https://flixpatrol.com/title/the-platform,EUR
+14,TV Show,Ozark,USA,Crime,2017-07-21,True,84%,81%,HUN,https://flixpatrol.com/title/ozark,EUR
+13,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,HUN,https://flixpatrol.com/title/the-platform,EUR
+13,TV Show,The Letter for the King,United Kingdom,Fantasy,2020-03-20,True,59%,60%,HUN,https://flixpatrol.com/title/the-letter-for-the-king-2020,EUR
+12,Movie,The Platform,Spain,Science Fiction,2020-03-20,True,73%,,HUN,https://flixpatrol.com/title/the-platform,EUR
+12,TV Show,The Letter for the King,United Kingdom,Fantasy,2020-03-20,True,59%,60%,HUN,https://flixpatrol.com/title/the-letter-for-the-king-2020,EUR
