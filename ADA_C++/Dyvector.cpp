@@ -100,9 +100,7 @@ int main()
 	
 	vector<int> weight{0,1,3,4,5};
 	vector<int> value{0,1,4,5,7};
-//	printvec(weight);
-//	vector <vector<int> >B{{1,3,4,5},{1,4,5,7}};
-//	print2dvec(B);
+
     ksc(weight,value,9);
        
 }
