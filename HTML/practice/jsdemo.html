@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <style>
+        #myCanvas{border:10px solid rgb(32, 106, 175);}
+    </style>
+<meta charset="utf-8">
+<title>Drawing on Canvas</title>
+</head>
+
+<body>
+    <canvas id="myCanvas" width="300" height="300"></canvas>
+<script>
+    window.onload = function() {
+        var canvas = document.getElementById("myCanvas");
+        var context = canvas.getContext("2d");
+        // draw stuff here
+
+        //line
+        // context.moveTo(50, 150);
+        // context.lineTo(250, 50);
+
+        // arc
+        // context.arc(150, 150, 50, 0, 2* Math.PI, true);
+        // context.strokeStyle='red'
+        
+        // rectangle
+        // context.rect(150,150,50,50);
+        // context.fillStyle="green";
+        // context.fill();
+        // context.lineWidth=5;
+        // context.strokeStyle="blue";
+        
+        context.rect(150, 150, 50, 50); 
+        var grd = context.createLinearGradient(0, 0, canvas.width, canvas.height);
+        grd.addColorStop(0, '#8ED6FF');   
+        grd.addColorStop(1, '#004CB3');
+        context.fillStyle = grd;
+        context.fill();
+        context.stroke();
+        
+    
+    
+        context.stroke();
+
+    };
+</script>
+
+    
+</body>
+</html>
