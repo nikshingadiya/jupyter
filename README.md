@@ -1,16 +1,14 @@
  
 # jupyter
- notebook
+notebook
 
- # Data
+# Data
    
-   ## “If you torture the data long enough, it will confess.” 
- 
-   Links
-   [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
-  
-   Images
-   []("https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg")
- 
- 
- <br>
+## “If you torture the data long enough, it will confess.” 
+
+
+[Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
+
+
+![]("https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg")
+
