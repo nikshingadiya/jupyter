@@ -32,11 +32,11 @@ void knapsack(int wt[], int val[], int lw, int lv,int max)
 }
 int main()
 {
-	int weight[]={1,3,4,5};
-	int value[] ={1,4,5,7};
+	int weight[]={10,20,40};
+	int value[] ={60,80,10};
 	int lw=sizeof(weight)/sizeof(weight[0]);
 	int lv=sizeof(value)/sizeof(value[0]);
-	knapsack(weight, value, lw, lv, 7);
+	knapsack(weight, value, lw, lv, 50);
 	
 	
 	

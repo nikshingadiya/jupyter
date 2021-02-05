@@ -98,9 +98,9 @@ void ksc(vector<int>w, vector<int>v,int max_w)
 int main()
 {
 	
-	vector<int> weight{0,1,3,4,5};
-	vector<int> value{0,1,4,5,7};
+	vector<int> weight{0,10,20,40};
+	vector<int> value{0,60,80,10};
 
-    ksc(weight,value,9);
+    ksc(weight,value,50);
        
 }
