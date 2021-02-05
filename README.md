@@ -2,13 +2,10 @@
 # jupyter
 notebook
 
-# Data
-   
+# Data 
 ## “If you torture the data long enough, it will confess.” 
-
-
 [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
-
-
-![]("https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg")
-
+<br>
+![](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
+</br>
+[Stastics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
