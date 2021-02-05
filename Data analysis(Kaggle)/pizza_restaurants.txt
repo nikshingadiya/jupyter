@@ -1,0 +1,78 @@
+TO:  CEO Of Pizza_Hunt
+Subject:  Pizza Ads Strategy
+
+Date:  11 jun 2020
+
+Collecting Data:
+
+DATA:Data Divide into  Four  section:
+
+    Customer Review
+    Products Selling
+    Collect Customer Metadata
+    Design Ads
+
+Customer Review (ratings):
+
+    Delivery Time (For online Order)
+    Packing
+    Qualities
+    Satisfaction
+    Restaurant
+
+Products production Cost:
+
+        Raw Materials
+        Cooking Charges
+        Fixed Charges
+        Delivery Charges(For online Order)
+        GST Charges
+
+
+Products Selling:
+
+    Types Of maximum Pizza selling
+    Area wise Selling
+    other Company Available
+    Price Depression
+    Payment Method
+
+Collect Customer Metadata And Competitor:
+
+    Which Day Maximum Order
+    When people Order Most( 0 To 24 Hours)
+    Types of People(Standard)
+    Competitor Launch Ads
+
+            Above Data required(May be More Data need) for any Ads launch in Market . Here some Questions  give some Direction of Advertising .
+
+
+Strategy:
+
+    When We launch Our Ads ?
+
+     We need to  Analyze other company timings to launch ads  and find which times that company get maximum profit. this things find out other company metadata by day or times (plot graph)
+     We need to  Analyze which day and when Most people orders by collecting our company data and other company.That things figure out by Customer metadata
+
+
+      2.Where to launch Our Ads?
+
+    Mostly People Use  Social Media like instagram, Facebook it's best  place to Target Customer ,Payment app Mostly preferred for Ads by Any company
+    Right Public place for Advertising that's all things find out by Customer Data ,Selling Area and  other Company Data.find out into data which place maximum Ads click (Showing plot data)            
+
+      3.Which type of pizza Mostly like by Customer Ratings?
+
+     This Data, We can Collect  our Pizza ratings and Qualities That things tell us  which types of pizza mostly like by people
+    Another things tell us which types pizza give us best profit in low cost that things find out by our Production Cost and Selling
+    Here Which types of pizza select for ads that things figure out by Knapsack Problem
+
+      4. How to Design our  Ads ?
+
+    This question is very important because if people do not like Ads frame then people not interested in your pizza
+    This Things We Decide by any Designing  Company and figure out  which is suitable frame for our Ads
+
+
+Here Too many Question Possible for Ads Launching. But  I discussed Those Questions are  most important.   
+Thanks
+
+From:Data Analyst
