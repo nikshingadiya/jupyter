@@ -7,5 +7,4 @@ notebook
 [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
 <br>
 ![](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
-</br>
-[Stastics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
+
