@@ -5,7 +5,7 @@ notebook
 # Data 
 ## “If you torture the data long enough, it will confess.” 
 [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
-All Required Data is Here 
+: all required data is Here for this repository
 
 ![](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
 
