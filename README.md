@@ -1,26 +1,26 @@
  
 # jupyter
-notebook
+ notebook
 
-# Data 
-### “If you torture the data long enough, it will confess.” 
-[Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
-: all required data is Here for this repository
-
-![](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
-
-## Statistics:Maturity is the capacity to endure uncertainty 
+<div class="data">
+ <h1> Data</h1>
+ <br>
+ <h2> “If you torture the data long enough, it will confess.” </h2>
 <br>
-[Statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
+ <a href="https://github.com/nikshingadiya/jupyter/tree/master/data"> Data
+ <br>
+ <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg" >
+ </a>
+ </div>
+ 
+ <br>
+ 
+<div>
+ <h1> Machine Learning </h1>
 <br>
-<img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" alt="cannot be rendered" width="200" height="200"></img>
-<br>
-### [statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics): In this repository contain statistics test performing by _python library_ and _mathematics approach_ and How to perfrom stastics test? 
- - [Box Plot](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb)
- - [Confidence_Interval](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Confidence_Interval.ipynb)
- - [F-test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb)
- - [chi-squred test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb)
- - [t-test_practice](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb)
- - [z_test_part1](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part1%20.ipynb)
- - [z_test_part2](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part2.ipynb)
-
+ <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
+ <br>
+ <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg" >
+ </a>
+ 
+ </div>
