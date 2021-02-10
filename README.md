@@ -16,7 +16,7 @@
  <img src="Image\statistics-review.jpg" width="300" height="300" >
  </a>
 	<br/>
-	<h3>statistical-test: In This Repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
+	<h3>statistical-test: In this repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
 	<ul style="list-style-type:circle;">
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb">Box_plot</a></li>
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Confidence_Interval.ipynb">Confidence_Interval</a></li>
