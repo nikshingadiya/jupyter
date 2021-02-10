@@ -9,21 +9,24 @@
 <br>
  <a href="https://github.com/nikshingadiya/jupyter/tree/master/data"> Data
  <br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" >
+ <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg" >
  </a>
  </div>
  
  <br>
  
- <div>
+ <div class="Statistics">
  <h1> Statistics </h1>
 </br>
  <a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">Statistics 
  </br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg" >
+ <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" >
  </a>
  
  </div>
+ 
+ 
+ 
 <div>
  <h1> Machine Learning </h1>
 <br>
