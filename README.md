@@ -1,38 +1,36 @@
- 
-# jupyter
- notebook
-
+# jupyter notebook
 <div class="data">
- <h1> Data</h1>
+	<h1> Data</h1>
+	<br>
+	<h2> “If you torture the data long enough, it will confess.” </h2>
+	<br> <a href="https://github.com/nikshingadiya/jupyter/tree/master/data"> Data
  <br>
- <h2> “If you torture the data long enough, it will confess.” </h2>
+ <img src="Image\data.jpg" >
+ </a> </div>
 <br>
- <a href="https://github.com/nikshingadiya/jupyter/tree/master/data"> Data
- <br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg" >
+<div class="Statistics">
+	<h1> Statistics </h1>
+	<h2>" Maturity is the capacity to
+ endure uncertainty "</h2> <a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">Statistics 
+ <br/>
+ <img src="Image\statistics-review.jpg" width="300" height="300" >
  </a>
- </div>
- 
- <br>
- 
- <div class="Statistics">
- <h1> Statistics </h1>
-</br>
- <a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">Statistics 
- </br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" >
- </a>
- 
- </div>
- 
- 
- 
+	<br/>
+	<h3>statistical-test: In This Repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
+	<ul style="list-style-type:circle;">
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb">Box_plot</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Confidence_Interval.ipynb">Confidence_Interval</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb">F-test</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb">chi-squred test</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb">t-test</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part1%20.ipynb">z_test_part1</a></li>
+		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part2.ipynb">z_test_part2</a></li>
+	</ul>
+</div>
+<br/>
 <div>
- <h1> Machine Learning </h1>
-<br>
- <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
+	<h1> Machine Learning </h1>
+	<br> <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
  <br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg" >
- </a>
- 
- </div>
+ <img src="Image\ml.jpg" >
+ </a> </div>
