@@ -18,8 +18,6 @@
 	<br/>
 	<h3>statistical-test: In this repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
 	<ul style="list-style-type:circle;">
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb">Box_plot</a></li>
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Confidence_Interval.ipynb">Confidence_Interval</a></li>
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb">F-test</a></li>
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb">chi-squred test</a></li>
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb">t-test</a></li>
