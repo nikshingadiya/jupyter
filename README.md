@@ -15,4 +15,5 @@ notebook
 <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" alt="cannot be rendered" width="200" height="200"></img>
 <br>
 ### [statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics): In this repository contain statistics test performing by _python library_ and _mathematics approach_
+ * [box plot](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb)
 
