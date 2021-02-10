@@ -16,7 +16,7 @@
  <img src="Image\statistics-review.jpg" width="300" height="300" >
  </a>
 	<br/>
-	<h3>statistical-test: In this repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
+	<h3><a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">statistical-test:</a> In this repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
 	<ul style="list-style-type:circle;">
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb">F-test</a></li>
 		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb">chi-squred test</a></li>
