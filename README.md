@@ -9,7 +9,7 @@ notebook
 
 ![](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
 
-## Statistics:```Maturity is the capacity to endure uncertainty```
+## Statistics:Maturity is the capacity to endure uncertainty 
 <br>
 [Statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
 <br>
