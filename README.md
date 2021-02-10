@@ -11,3 +11,5 @@ notebook
 
 ## Statistics
 [Statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
+<br>
+<img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg" width="200" height="200"></img>
