@@ -30,5 +30,27 @@
 	<h1> Machine Learning </h1>
 	<br> <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
  <br>
- <img src="Image\ml.jpg" >
+ <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg" >
  </a> </div>
+<br/>
+<div>
+ <h1> Machine Learning </h1>
+ <h2>" Machine learning is the next internet "</h2> 
+
+<br>
+ <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
+ <br>
+ <img src="Image\ml.jpg" >
+ </a>
+<h3><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning">machine learning</a>: In this Repository contain diffrent differnet ml alogrithms  with real world  <b>Data</b> and <b>Use Cases.</b> </h3>
+<ul style="list-style-type:circle;">
+  <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Car%20Insurance(failed_model)">Car Insurance(failed_model)</a></li> 
+    <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Knn">Knn</a></li>
+     <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Lasso%20%26%20Ridge%20Regression">Lasso & Ridge Regression</a></li>
+      <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Logistic%20Regression">Logistic Regression</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Regression">Regression</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/SVM/material_nb">SVM/material_nb</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/all_example_ml(Michingan)">all_example_ml(Michingan)</a></li>
+       
+</ul>
+ </div>
