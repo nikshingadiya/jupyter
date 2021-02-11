@@ -26,14 +26,7 @@
 	</ul>
 </div>
 <br/>
-<div>
-	<h1> Machine Learning </h1>
-	<br> <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
- <br>
- <img src="https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg" >
- </a> </div>
-<br/>
-<div>
+
  <h1> Machine Learning </h1>
  <h2>" Machine learning is the next internet "</h2> 
 
