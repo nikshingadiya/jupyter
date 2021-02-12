@@ -1,7 +1,7 @@
  
 # jupyter
  notebook
-
+<br/>
 <div class="data">
  <h1> Data</h1>
  <br>
@@ -51,13 +51,13 @@
  </a>
 <h3><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning">machine learning</a>: In this Repository contain diffrent differnet ml alogrithms  with real world  <b>Data</b> and <b>Use Cases.</b> </h3>
 <ul style="list-style-type:circle;">
-  <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Box_plot.ipynb">Box_plot</a></li> 
-    <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/Confidence_Interval.ipynb">Confidence_Interval</a></li>
-     <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb">F-test</a></li>
-      <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb">chi-squred test</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb">t-test</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part1%20.ipynb">z_test_part1</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part2.ipynb">z_test_part2</a></li>
+  <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Car%20Insurance(failed_model)">Car Insurance(failed_model)</a></li> 
+    <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Knn">Knn</a></li>
+     <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Lasso%20%26%20Ridge%20Regression">Lasso & Ridge Regression</a></li>
+      <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Logistic%20Regression">Logistic Regression</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Regression">Regression</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/SVM/material_nb">SVM/material_nb</a></li>
+       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/all_example_ml(Michingan)">all_example_ml(Michingan)</a></li>
        
 </ul>
  </div>
