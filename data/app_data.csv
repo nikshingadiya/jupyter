@@ -1,0 +1,555 @@
+,appName,pkgName,eventType,eventFlag,className,datetime,timestamp
+0,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 07:55:40,1614565540472
+1,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 07:55:44,1614565543608
+2,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:55:44,1614565543609
+3,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:05,1614565564561
+4,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:05,1614565564562
+5,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:05,1614565564741
+6,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 07:56:15,1614565575355
+7,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:15,1614565575375
+8,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 07:56:16,1614565576077
+9,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:16,1614565576078
+10,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 07:56:39,1614565599361
+11,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:39,1614565599374
+12,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 07:56:41,1614565600656
+13,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:41,1614565600658
+14,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 07:56:41,1614565601296
+15,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:56:41,1614565601312
+16,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 07:56:43,1614565603146
+17,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 07:56:43,1614565603260
+18,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 07:57:10,1614565629628
+19,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 07:57:10,1614565629645
+20,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 07:57:11,1614565630867
+21,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:11,1614565630893
+22,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:26,1614565646270
+23,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.reviewsactivity.ReviewsActivity,01-03-2021 07:57:26,1614565646281
+24,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.reviewsactivity.ReviewsActivity,01-03-2021 07:57:28,1614565648005
+25,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:28,1614565648013
+26,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:29,1614565649297
+27,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.pageframework.overlayactivity.PageControllerOverlayActivity,01-03-2021 07:57:29,1614565649308
+28,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.pageframework.overlayactivity.PageControllerOverlayActivity,01-03-2021 07:57:32,1614565652004
+29,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:32,1614565652011
+30,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 07:57:38,1614565657567
+31,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 07:57:38,1614565657581
+32,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 07:57:39,1614565659055
+33,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.LauncherActivity,01-03-2021 07:57:39,1614565659108
+34,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.LauncherActivity,01-03-2021 07:57:40,1614565659667
+35,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 07:57:40,1614565659682
+36,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 07:58:13,1614565693465
+37,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 07:58:13,1614565693473
+38,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 07:58:29,1614565708984
+39,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 07:58:29,1614565708986
+40,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 07:58:30,1614565710041
+41,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 07:58:30,1614565710048
+42,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 07:58:43,1614565722583
+43,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 07:58:43,1614565722583
+44,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 08:32:08,1614567728339
+45,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 08:32:09,1614567728616
+46,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 08:32:11,1614567731043
+47,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 08:32:11,1614567731073
+48,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 08:32:17,1614567736616
+49,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 08:48:22,1614568701766
+50,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 08:48:22,1614568701945
+51,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 08:48:22,1614568701952
+52,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 08:48:51,1614568731046
+53,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 08:49:42,1614568781801
+54,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 08:49:42,1614568781883
+55,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 08:49:42,1614568781892
+56,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 08:50:07,1614568806828
+57,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:03:01,1614569580644
+58,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:04:29,1614569669007
+59,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:34:42,1614571482162
+60,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:34:47,1614571486960
+61,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:34:47,1614571487020
+62,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:35:02,1614571502158
+63,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:35:02,1614571502168
+64,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:35:03,1614571503343
+65,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:35:03,1614571503355
+66,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:35:04,1614571504399
+67,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:35:04,1614571504467
+68,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:35:20,1614571520409
+69,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:35:20,1614571520420
+70,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:35:23,1614571522550
+71,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:35:23,1614571522563
+72,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:35:30,1614571530011
+73,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:35:30,1614571530024
+74,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:35:32,1614571531534
+75,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:35:32,1614571531553
+76,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:35:34,1614571533678
+77,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:35:34,1614571533688
+78,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:35:39,1614571538741
+79,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:35:39,1614571538957
+80,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:35:40,1614571540018
+81,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:47:14,1614572233923
+82,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:47:24,1614572243828
+83,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:47:24,1614572243843
+84,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:47:37,1614572257136
+85,Settings,com.android.settings,1,ACTIVITY_RESUMED,com.android.settings.Settings$WifiSettingsActivity,01-03-2021 09:47:37,1614572257221
+86,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:47:46,1614572265649
+87,Settings,com.android.settings,2,ACTIVITY_PAUSED,com.android.settings.Settings$WifiSettingsActivity,01-03-2021 09:47:46,1614572265657
+88,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:47:47,1614572266830
+89,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:47:47,1614572266838
+90,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:48:01,1614572280912
+91,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:48:01,1614572280922
+92,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:48:05,1614572284827
+93,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,1,ACTIVITY_RESUMED,free.vpn.unblock.proxy.turbovpn.activity.LaunchActivity,01-03-2021 09:48:05,1614572284905
+94,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,2,ACTIVITY_PAUSED,free.vpn.unblock.proxy.turbovpn.activity.LaunchActivity,01-03-2021 09:48:05,1614572285123
+95,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,1,ACTIVITY_RESUMED,free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity,01-03-2021 09:48:05,1614572285141
+96,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:15,1614572295370
+97,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,2,ACTIVITY_PAUSED,free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity,01-03-2021 09:48:15,1614572295383
+98,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:16,1614572295998
+99,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:48:16,1614572296012
+100,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:51,1614572331183
+101,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:48:51,1614572331209
+102,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:52,1614572332069
+103,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,1,ACTIVITY_RESUMED,free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity,01-03-2021 09:48:52,1614572332078
+104,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:54,1614572334327
+105,Turbo VPN Lite,free.vpn.unblock.proxy.turbovpn.lite,2,ACTIVITY_PAUSED,free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity,01-03-2021 09:48:54,1614572334339
+106,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:48:55,1614572334974
+107,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:48:55,1614572334991
+108,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:50:18,1614572418411
+109,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:50:18,1614572418422
+110,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:20,1614572420477
+111,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:50:20,1614572420488
+112,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:21,1614572421300
+113,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:50:21,1614572421310
+114,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:50:26,1614572426300
+115,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:50:26,1614572426308
+116,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:27,1614572427385
+117,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:50:27,1614572427394
+118,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:28,1614572428336
+119,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:50:28,1614572428361
+120,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:34,1614572433831
+121,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:50:34,1614572433838
+122,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:35,1614572434680
+123,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:50:35,1614572434693
+124,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:36,1614572436023
+125,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:50:36,1614572436035
+126,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:50:37,1614572436724
+127,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:50:37,1614572436733
+128,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:51:55,1614572515211
+129,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:51:55,1614572515222
+130,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:51:57,1614572516566
+131,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:51:57,1614572516574
+132,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:52:18,1614572538191
+133,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 09:52:18,1614572538219
+134,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 09:52:19,1614572539423
+135,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:52:19,1614572539434
+136,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:52:56,1614572575636
+137,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:52:56,1614572575647
+138,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:53:02,1614572581926
+139,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:53:02,1614572581934
+140,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:53:10,1614572589527
+141,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:53:10,1614572589534
+142,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:53:15,1614572595125
+143,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.activity.SettingPreferenceActivity,01-03-2021 09:53:15,1614572595126
+144,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.activity.SettingPreferenceActivity,01-03-2021 09:53:17,1614572596937
+145,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:53:17,1614572596948
+146,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:53:18,1614572598295
+147,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 09:53:18,1614572598306
+148,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:53:39,1614572618633
+149,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:53:39,1614572618644
+150,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:53:41,1614572621038
+151,Settings,com.android.settings,1,ACTIVITY_RESUMED,com.android.settings.Settings$WifiSettingsActivity,01-03-2021 09:53:41,1614572621048
+152,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:53:41,1614572621488
+153,Settings,com.android.settings,2,ACTIVITY_PAUSED,com.android.settings.Settings$WifiSettingsActivity,01-03-2021 09:53:42,1614572621502
+154,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:53:44,1614572624215
+155,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:53:44,1614572624284
+156,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:54:00,1614572639903
+157,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.settings.SettingsActivity,01-03-2021 09:54:00,1614572639909
+158,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.settings.SettingsActivity,01-03-2021 09:54:12,1614572651703
+159,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.settings.AlarmSettingsActivity,01-03-2021 09:54:12,1614572651712
+160,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.settings.AlarmSettingsActivity,01-03-2021 09:54:22,1614572662395
+161,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.settings.SettingsActivity,01-03-2021 09:54:22,1614572662402
+162,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.settings.SettingsActivity,01-03-2021 09:54:23,1614572663431
+163,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:54:23,1614572663439
+164,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:54:55,1614572694782
+165,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:54:55,1614572694789
+166,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:54:56,1614572695586
+167,Clock,com.android.deskclock,1,ACTIVITY_RESUMED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:54:56,1614572695598
+168,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:54:57,1614572697238
+169,Clock,com.android.deskclock,2,ACTIVITY_PAUSED,com.android.deskclock.DeskClockTabActivity,01-03-2021 09:54:57,1614572697249
+170,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:54:59,1614572699365
+171,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:54:59,1614572699383
+172,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:55:11,1614572711096
+173,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 09:55:11,1614572711117
+174,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:55:24,1614572723884
+175,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 09:55:24,1614572723902
+176,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:55:25,1614572724649
+177,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:55:25,1614572724718
+178,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 09:55:54,1614572754296
+179,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 09:55:54,1614572754309
+180,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:55:56,1614572756387
+181,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 09:55:56,1614572756412
+182,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:55:58,1614572757982
+183,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:56:32,1614572791948
+184,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:56:49,1614572809186
+185,Music,com.miui.player,1,ACTIVITY_RESUMED,com.miui.player.ui.MusicBrowserActivity,01-03-2021 09:56:49,1614572809224
+186,Music,com.miui.player,2,ACTIVITY_PAUSED,com.miui.player.ui.MusicBrowserActivity,01-03-2021 09:56:50,1614572809859
+187,null,com.google.android.permissioncontroller,1,ACTIVITY_RESUMED,com.android.packageinstaller.permission.ui.GrantPermissionsActivity,01-03-2021 09:56:50,1614572810006
+188,null,com.google.android.permissioncontroller,2,ACTIVITY_PAUSED,com.android.packageinstaller.permission.ui.GrantPermissionsActivity,01-03-2021 09:56:51,1614572811413
+189,Music,com.miui.player,1,ACTIVITY_RESUMED,com.miui.player.ui.MusicBrowserActivity,01-03-2021 09:56:51,1614572811414
+190,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:57:20,1614572840132
+191,Music,com.miui.player,2,ACTIVITY_PAUSED,com.miui.player.ui.MusicBrowserActivity,01-03-2021 09:57:20,1614572840173
+192,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:57:21,1614572841113
+193,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:57:21,1614572841125
+194,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 09:57:24,1614572843616
+195,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 09:57:24,1614572843638
+196,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 09:57:25,1614572844744
+197,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:28:37,1614585517269
+198,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:28:41,1614585521196
+199,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:28:41,1614585521208
+200,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:28:44,1614585523705
+201,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 13:28:44,1614585523730
+202,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:28:50,1614585530212
+203,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 13:28:50,1614585530228
+204,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:29:40,1614585579611
+205,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Main,01-03-2021 13:29:40,1614585579626
+206,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Main,01-03-2021 13:29:40,1614585579750
+207,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:29:40,1614585579752
+208,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:29:42,1614585581925
+209,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:29:42,1614585581937
+210,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:30:02,1614585601665
+211,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.group.GroupChatInfo,01-03-2021 13:30:02,1614585601677
+212,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:30:18,1614585618111
+213,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.group.GroupChatInfo,01-03-2021 13:30:18,1614585618356
+214,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:30:18,1614585618370
+215,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:30:24,1614585623857
+216,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.group.GroupChatInfo,01-03-2021 13:30:24,1614585623865
+217,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:30:26,1614585626356
+218,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.group.GroupChatInfo,01-03-2021 13:30:27,1614585626618
+219,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:30:27,1614585626629
+220,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:30:27,1614585626990
+221,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:30:27,1614585626997
+222,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:30:35,1614585634817
+223,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:31:08,1614585667818
+224,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:31:14,1614585674475
+225,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.status.playback.StatusPlaybackActivity,01-03-2021 13:31:14,1614585674486
+226,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.status.playback.StatusPlaybackActivity,01-03-2021 13:31:30,1614585690472
+227,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:31:30,1614585690488
+228,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:31:33,1614585692605
+229,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.status.playback.StatusPlaybackActivity,01-03-2021 13:31:33,1614585692613
+230,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.status.playback.StatusPlaybackActivity,01-03-2021 13:31:34,1614585693693
+231,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:31:34,1614585693708
+232,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:31:35,1614585695164
+233,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:31:35,1614585695180
+234,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:31:36,1614585696200
+235,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:31:36,1614585696209
+236,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:31:38,1614585698442
+237,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:31:38,1614585698451
+238,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:31:44,1614585704103
+239,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:31:44,1614585704110
+240,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:31:52,1614585711554
+241,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:31:52,1614585711563
+242,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:31:57,1614585717445
+243,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:31:57,1614585717452
+244,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.mediaview.MediaViewActivity,01-03-2021 13:32:05,1614585725480
+245,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.Conversation,01-03-2021 13:32:05,1614585725492
+246,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.Conversation,01-03-2021 13:32:10,1614585730289
+247,WhatsApp,com.whatsapp,1,ACTIVITY_RESUMED,com.whatsapp.HomeActivity,01-03-2021 13:32:10,1614585730297
+248,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:32:35,1614585755191
+249,WhatsApp,com.whatsapp,2,ACTIVITY_PAUSED,com.whatsapp.HomeActivity,01-03-2021 13:32:35,1614585755207
+250,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:32:40,1614585759652
+251,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 13:32:40,1614585759665
+252,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:32:48,1614585767796
+253,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 13:32:48,1614585767812
+254,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:32:56,1614585775682
+255,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:32:56,1614585775694
+256,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:32:57,1614585777476
+257,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 13:32:57,1614585777487
+258,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:32:59,1614585779170
+259,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 13:32:59,1614585779188
+260,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:33:00,1614585780497
+261,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:33:01,1614585780508
+262,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 13:33:01,1614585781349
+263,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 13:33:01,1614585781365
+264,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:33:04,1614585784130
+265,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 13:33:04,1614585784141
+266,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:33:07,1614585786950
+267,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 13:33:11,1614585790977
+268,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 13:33:15,1614585795235
+269,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 17:06:34,1614598593629
+270,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 17:06:34,1614598593869
+271,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 17:06:34,1614598593882
+272,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 17:06:56,1614598616443
+273,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 17:06:57,1614598617194
+274,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 17:06:59,1614598618829
+275,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 17:06:59,1614598618832
+276,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 17:07:00,1614598619949
+277,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 17:07:00,1614598620059
+278,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 17:07:03,1614598623020
+279,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 17:07:03,1614598623194
+280,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 17:07:10,1614598629603
+281,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 17:07:10,1614598629688
+282,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 17:07:14,1614598634189
+283,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.multiinstall.MultiInstallActivity,01-03-2021 17:07:14,1614598634201
+284,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.multiinstall.MultiInstallActivity,01-03-2021 17:07:14,1614598634323
+285,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 17:07:14,1614598634350
+286,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 17:07:37,1614598657371
+287,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 17:07:37,1614598657387
+288,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 17:07:39,1614598658537
+289,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:12:06,1614606125641
+290,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:12:33,1614606153231
+291,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:12:33,1614606153252
+292,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:12:42,1614606162385
+293,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 19:12:42,1614606162396
+294,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:12:53,1614606172893
+295,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 19:12:53,1614606172903
+296,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:12:56,1614606176250
+297,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 19:12:56,1614606176263
+298,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 19:12:57,1614606177057
+299,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:12:57,1614606177063
+300,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:13:07,1614606187294
+301,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:13:07,1614606187313
+302,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:13:09,1614606189303
+303,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 19:13:09,1614606189363
+304,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:15,1614606195330
+305,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 19:13:15,1614606195344
+306,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:16,1614606196098
+307,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:13:16,1614606196151
+308,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:13:45,1614606225091
+309,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 19:13:45,1614606225203
+310,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:47,1614606227068
+311,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 19:13:47,1614606227076
+312,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:48,1614606227752
+313,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 19:13:48,1614606227827
+314,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:49,1614606228613
+315,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 19:13:49,1614606228629
+316,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:13:49,1614606229284
+317,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:13:49,1614606229287
+318,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:14:42,1614606282044
+319,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 19:14:42,1614606282055
+320,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 19:14:43,1614606282511
+321,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:14:43,1614606282537
+322,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:14:44,1614606284307
+323,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:14:44,1614606284325
+324,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:14:46,1614606286321
+325,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:23:52,1614606832211
+326,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:24:04,1614606843938
+327,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:24:04,1614606843957
+328,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:24:06,1614606846098
+329,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:24:06,1614606846117
+330,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:24:14,1614606853506
+331,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.ChromeTabbedActivity,01-03-2021 19:24:14,1614606853525
+332,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:24:14,1614606854323
+333,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:24:14,1614606854335
+334,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:24:29,1614606868760
+335,null,android,1,ACTIVITY_RESUMED,com.android.internal.app.ResolverActivity,01-03-2021 19:24:29,1614606868830
+336,null,android,2,ACTIVITY_PAUSED,com.android.internal.app.ResolverActivity,01-03-2021 19:24:29,1614606869274
+337,GetApps,com.xiaomi.mipicks,1,ACTIVITY_RESUMED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 19:24:29,1614606869340
+338,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:24:30,1614606869652
+339,GetApps,com.xiaomi.mipicks,2,ACTIVITY_PAUSED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 19:24:30,1614606870013
+340,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:24:40,1614606880407
+341,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:27:11,1614607030838
+342,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:27:17,1614607037181
+343,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:27:17,1614607037190
+344,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:27:18,1614607038047
+345,GetApps,com.xiaomi.mipicks,1,ACTIVITY_RESUMED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 19:27:18,1614607038078
+346,null,android,2,ACTIVITY_PAUSED,com.android.internal.app.ResolverActivity,01-03-2021 19:27:18,1614607038125
+347,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:27:18,1614607038126
+348,GetApps,com.xiaomi.mipicks,2,ACTIVITY_PAUSED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 19:27:20,1614607040090
+349,null,android,1,ACTIVITY_RESUMED,com.android.internal.app.ResolverActivity,01-03-2021 19:27:20,1614607040109
+350,null,android,2,ACTIVITY_PAUSED,com.android.internal.app.ResolverActivity,01-03-2021 19:27:20,1614607040116
+351,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:27:20,1614607040143
+352,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 19:27:22,1614607042223
+353,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 19:27:22,1614607042230
+354,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:27:25,1614607045245
+355,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 19:27:25,1614607045263
+356,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:27:31,1614607051408
+357,Telegram,org.telegram.messenger,1,ACTIVITY_RESUMED,org.telegram.ui.LaunchActivity,01-03-2021 19:27:31,1614607051424
+358,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:28:01,1614607080728
+359,Telegram,org.telegram.messenger,2,ACTIVITY_PAUSED,org.telegram.ui.LaunchActivity,01-03-2021 19:28:01,1614607080747
+360,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:28:13,1614607093479
+361,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:31:20,1614607280323
+362,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:31:24,1614607283909
+363,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:31:24,1614607283919
+364,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 19:31:25,1614607285241
+365,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 19:31:25,1614607285256
+366,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 19:31:28,1614607287961
+367,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:36:00,1614607560225
+368,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:36:00,1614607560418
+369,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:36:00,1614607560421
+370,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:36:30,1614607590440
+371,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:36:50,1614607610419
+372,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:36:50,1614607610488
+373,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:36:50,1614607610493
+374,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:37:14,1614607634034
+375,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:57:09,1614608828856
+376,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:57:09,1614608828927
+377,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 19:57:09,1614608828940
+378,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 19:57:12,1614608832275
+379,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:00:33,1614609033261
+380,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:00:35,1614609034810
+381,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:00:35,1614609034875
+382,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:00:37,1614609036763
+383,null,com.android.server.telecom,1,ACTIVITY_RESUMED,com.android.server.telecom.components.UserCallActivity,01-03-2021 20:00:37,1614609036839
+384,null,com.android.server.telecom,2,ACTIVITY_PAUSED,com.android.server.telecom.components.UserCallActivity,01-03-2021 20:00:37,1614609036969
+385,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:00:37,1614609036973
+386,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:00:37,1614609037088
+387,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 20:00:37,1614609037128
+388,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 20:01:02,1614609061857
+389,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:01:02,1614609061867
+390,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:01:05,1614609064882
+391,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 20:01:05,1614609064921
+392,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 20:01:31,1614609090687
+393,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:01:31,1614609090694
+394,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:01:31,1614609091170
+395,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:10:27,1614609627126
+396,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:10:58,1614609658145
+397,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:10:58,1614609658156
+398,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:10:59,1614609659102
+399,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:12:33,1614609753084
+400,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:12:34,1614609754203
+401,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:12:34,1614609754205
+402,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:12:51,1614609771370
+403,Contacts and dialer,com.android.contacts,1,ACTIVITY_RESUMED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:28:27,1614610707334
+404,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:28:49,1614610729067
+405,Contacts and dialer,com.android.contacts,2,ACTIVITY_PAUSED,com.android.contacts.activities.PeopleActivity,01-03-2021 20:28:49,1614610729078
+406,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:28:51,1614610730763
+407,Telegram,org.telegram.messenger,1,ACTIVITY_RESUMED,org.telegram.ui.LaunchActivity,01-03-2021 20:28:51,1614610730773
+408,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:28:55,1614610734511
+409,Telegram,org.telegram.messenger,2,ACTIVITY_PAUSED,org.telegram.ui.LaunchActivity,01-03-2021 20:28:55,1614610734518
+410,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:28:56,1614610735598
+411,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 20:28:56,1614610735608
+412,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:29:05,1614610745142
+413,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 20:29:05,1614610745153
+414,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:29:13,1614610753315
+415,Chrome,com.android.chrome,1,ACTIVITY_RESUMED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 20:29:13,1614610753317
+416,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:29:30,1614610769816
+417,Chrome,com.android.chrome,2,ACTIVITY_PAUSED,org.chromium.chrome.browser.download.DownloadActivity,01-03-2021 20:29:30,1614610769831
+418,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:29:31,1614610771298
+419,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.LauncherActivity,01-03-2021 20:29:31,1614610771314
+420,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.LauncherActivity,01-03-2021 20:29:31,1614610771421
+421,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 20:29:31,1614610771433
+422,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 20:29:45,1614610784960
+423,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:29:45,1614610784969
+424,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:30:25,1614610825033
+425,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.TransparentModalActivity,01-03-2021 20:30:25,1614610825050
+426,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.TransparentModalActivity,01-03-2021 20:31:00,1614610859606
+427,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:31:00,1614610859628
+428,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:31:00,1614610860350
+429,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 20:31:00,1614610860353
+430,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 20:32:42,1614610961844
+431,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.TransparentModalActivity,01-03-2021 20:32:42,1614610961851
+432,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.TransparentModalActivity,01-03-2021 20:34:13,1614611052721
+433,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 20:34:13,1614611052740
+434,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 20:38:03,1614611282604
+435,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:38:03,1614611282612
+436,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:38:08,1614611288328
+437,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:38:08,1614611288338
+438,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:38:14,1614611293913
+439,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:38:14,1614611293921
+440,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:45:08,1614611707596
+441,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 20:45:08,1614611707599
+442,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:45:24,1614611724342
+443,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 20:45:24,1614611724383
+444,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:45:28,1614611727825
+445,null,com.android.incallui,1,ACTIVITY_RESUMED,com.android.incallui.InCallActivity,01-03-2021 20:45:28,1614611727834
+446,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:45:33,1614611732877
+447,null,com.android.incallui,2,ACTIVITY_PAUSED,com.android.incallui.InCallActivity,01-03-2021 20:45:33,1614611732903
+448,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:45:34,1614611733585
+449,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:45:34,1614611733599
+450,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:46:54,1614611813758
+451,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:46:54,1614611813774
+452,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:46:55,1614611815143
+453,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 20:46:55,1614611815151
+454,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 20:47:13,1614611832800
+455,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.screenshotsactivity.ScreenshotsActivityV2,01-03-2021 20:47:13,1614611832812
+456,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.screenshotsactivity.ScreenshotsActivityV2,01-03-2021 20:47:25,1614611844953
+457,Google Play Store,com.android.vending,1,ACTIVITY_RESUMED,com.google.android.finsky.activities.MainActivity,01-03-2021 20:47:25,1614611844975
+458,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:47:26,1614611846475
+459,Google Play Store,com.android.vending,2,ACTIVITY_PAUSED,com.google.android.finsky.activities.MainActivity,01-03-2021 20:47:26,1614611846497
+460,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:47:27,1614611847134
+461,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.modal.ModalActivity,01-03-2021 20:47:27,1614611847146
+462,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.modal.ModalActivity,01-03-2021 20:49:45,1614611985469
+463,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 20:49:45,1614611985479
+464,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 20:50:23,1614612023054
+465,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.InstallStart,01-03-2021 20:50:23,1614612023156
+466,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.InstallStart,01-03-2021 20:50:23,1614612023248
+467,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.InstallStaging,01-03-2021 20:50:23,1614612023259
+468,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.InstallStaging,01-03-2021 20:50:24,1614612023828
+469,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.DeleteStagedFileOnResult,01-03-2021 20:50:24,1614612023829
+470,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.DeleteStagedFileOnResult,01-03-2021 20:50:24,1614612023880
+471,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.PackageInstallerActivity,01-03-2021 20:50:24,1614612023883
+472,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.PackageInstallerActivity,01-03-2021 20:50:37,1614612036633
+473,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.InstallInstalling,01-03-2021 20:50:37,1614612036649
+474,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.InstallInstalling,01-03-2021 20:50:51,1614612051017
+475,null,com.google.android.packageinstaller,1,ACTIVITY_RESUMED,com.android.packageinstaller.InstallSuccess,01-03-2021 20:50:51,1614612051034
+476,null,com.google.android.packageinstaller,2,ACTIVITY_PAUSED,com.android.packageinstaller.InstallSuccess,01-03-2021 20:50:55,1614612054843
+477,null,com.androeed.installer_com.dogbytegames.offtheroad,1,ACTIVITY_RESUMED,com.example.myapplication.MainActivity,01-03-2021 20:50:55,1614612054935
+478,null,com.androeed.installer_com.dogbytegames.offtheroad,2,ACTIVITY_PAUSED,com.example.myapplication.MainActivity,01-03-2021 20:51:04,1614612064464
+479,null,com.google.android.permissioncontroller,1,ACTIVITY_RESUMED,com.android.packageinstaller.permission.ui.GrantPermissionsActivity,01-03-2021 20:51:04,1614612064477
+480,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:51:07,1614612067133
+481,null,com.google.android.permissioncontroller,2,ACTIVITY_PAUSED,com.android.packageinstaller.permission.ui.GrantPermissionsActivity,01-03-2021 20:51:07,1614612067142
+482,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:51:10,1614612069699
+483,Security,com.miui.securitycenter,1,ACTIVITY_RESUMED,com.miui.appmanager.ApplicationsDetailsActivity,01-03-2021 20:51:10,1614612069870
+484,Security,com.miui.securitycenter,2,ACTIVITY_PAUSED,com.miui.appmanager.ApplicationsDetailsActivity,01-03-2021 20:51:20,1614612080016
+485,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:51:20,1614612080016
+486,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:51:26,1614612085698
+487,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 20:51:26,1614612085790
+488,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:51:58,1614612117595
+489,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 20:51:58,1614612117613
+490,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:51:58,1614612118238
+491,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:51:58,1614612118246
+492,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:52:04,1614612124183
+493,Instagram,com.instagram.android,1,ACTIVITY_RESUMED,com.instagram.mainactivity.MainActivity,01-03-2021 20:52:04,1614612124192
+494,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:52:22,1614612142493
+495,Instagram,com.instagram.android,2,ACTIVITY_PAUSED,com.instagram.mainactivity.MainActivity,01-03-2021 20:52:23,1614612142503
+496,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 20:52:26,1614612145603
+497,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 20:52:26,1614612145630
+498,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 20:52:26,1614612146313
+499,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:26:46,1614614205832
+500,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:27:24,1614614243959
+501,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:29:14,1614614353622
+502,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:29:20,1614614360148
+503,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 21:29:20,1614614360260
+504,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:29:46,1614614386047
+505,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 21:29:46,1614614386066
+506,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:29:48,1614614387866
+507,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 21:29:48,1614614387868
+508,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.FileExplorerTabActivity,01-03-2021 21:29:57,1614614396579
+509,File Manager,com.mi.android.globalFileexplorer,1,ACTIVITY_RESUMED,com.android.fileexplorer.activity.FileActivity,01-03-2021 21:29:57,1614614396589
+510,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:30:18,1614614418058
+511,File Manager,com.mi.android.globalFileexplorer,2,ACTIVITY_PAUSED,com.android.fileexplorer.activity.FileActivity,01-03-2021 21:30:18,1614614418069
+512,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:30:19,1614614419023
+513,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 21:30:19,1614614419033
+514,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 21:30:35,1614614434997
+515,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 21:30:35,1614614435017
+516,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 21:30:51,1614614450896
+517,null,android,1,ACTIVITY_RESUMED,com.android.internal.app.ResolverActivity,01-03-2021 21:30:51,1614614450995
+518,null,android,2,ACTIVITY_PAUSED,com.android.internal.app.ResolverActivity,01-03-2021 21:30:51,1614614451459
+519,GetApps,com.xiaomi.mipicks,1,ACTIVITY_RESUMED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 21:30:52,1614614451520
+520,GetApps,com.xiaomi.mipicks,2,ACTIVITY_PAUSED,com.xiaomi.market.appchooser.AppChooserActivity,01-03-2021 21:30:53,1614614452920
+521,null,android,1,ACTIVITY_RESUMED,com.android.internal.app.ResolverActivity,01-03-2021 21:30:53,1614614452962
+522,null,android,2,ACTIVITY_PAUSED,com.android.internal.app.ResolverActivity,01-03-2021 21:30:53,1614614452974
+523,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 21:30:53,1614614453006
+524,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:30:58,1614614457659
+525,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.ironsource.sdk.controller.ControllerActivity,01-03-2021 21:30:58,1614614457680
+526,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:31:00,1614614459947
+527,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:31:00,1614614459960
+528,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:31:03,1614614462684
+529,BitTorrent,com.bittorrent.client,1,ACTIVITY_RESUMED,com.bittorrent.app.Main,01-03-2021 21:31:03,1614614462762
+530,null,com.android.systemui,1,ACTIVITY_RESUMED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:31:25,1614614485203
+531,BitTorrent,com.bittorrent.client,2,ACTIVITY_PAUSED,com.bittorrent.app.Main,01-03-2021 21:31:25,1614614485216
+532,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:31:29,1614614489389
+533,null,com.android.systemui,2,ACTIVITY_PAUSED,com.android.systemui.recents.RecentsActivity,01-03-2021 21:31:29,1614614489404
+534,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:31:42,1614614501660
+535,MX Player,com.mxtech.videoplayer.ad,1,ACTIVITY_RESUMED,com.mxtech.videoplayer.ad.ActivityWelcomeMX,01-03-2021 21:31:42,1614614501732
+536,MX Player,com.mxtech.videoplayer.ad,2,ACTIVITY_PAUSED,com.mxtech.videoplayer.ad.ActivityWelcomeMX,01-03-2021 21:31:44,1614614503603
+537,MX Player,com.mxtech.videoplayer.ad,1,ACTIVITY_RESUMED,com.mxtech.videoplayer.ad.OnlineActivityMediaList,01-03-2021 21:31:44,1614614503626
+538,MX Player,com.mxtech.videoplayer.ad,2,ACTIVITY_PAUSED,com.mxtech.videoplayer.ad.OnlineActivityMediaList,01-03-2021 21:31:46,1614614506461
+539,MX Player,com.mxtech.videoplayer.ad,1,ACTIVITY_RESUMED,com.mxtech.videoplayer.ad.ActivityScreen,01-03-2021 21:31:46,1614614506472
+540,MX Player,com.mxtech.videoplayer.ad,2,ACTIVITY_PAUSED,com.mxtech.videoplayer.ad.ActivityScreen,01-03-2021 21:32:44,1614614563756
+541,POCO Launcher,com.mi.android.globallauncher,1,ACTIVITY_RESUMED,com.miui.home.launcher.Launcher,01-03-2021 21:32:44,1614614563990
+542,POCO Launcher,com.mi.android.globallauncher,2,ACTIVITY_PAUSED,com.miui.home.launcher.Launcher,01-03-2021 21:32:49,1614614568592
+543,XPlayer,video.player.videoplayer,1,ACTIVITY_RESUMED,com.inshot.xplayer.activities.SplashActivity,01-03-2021 21:32:49,1614614568658
+544,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.SplashActivity,01-03-2021 21:32:50,1614614569775
+545,XPlayer,video.player.videoplayer,1,ACTIVITY_RESUMED,com.inshot.xplayer.activities.FileExplorerActivity,01-03-2021 21:32:50,1614614569786
+546,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.FileExplorerActivity,01-03-2021 21:32:53,1614614572834
+547,XPlayer,video.player.videoplayer,1,ACTIVITY_RESUMED,com.inshot.xplayer.activities.PlayerActivity,01-03-2021 21:32:53,1614614572850
+548,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.FileExplorerActivity,01-03-2021 22:55:55,1614619554719
+549,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.PlayerActivity,01-03-2021 22:55:55,1614619555137
+550,XPlayer,video.player.videoplayer,1,ACTIVITY_RESUMED,com.inshot.xplayer.activities.FileExplorerActivity,01-03-2021 22:55:55,1614619555140
+551,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.FileExplorerActivity,01-03-2021 22:56:03,1614619563001
+552,XPlayer,video.player.videoplayer,1,ACTIVITY_RESUMED,com.inshot.xplayer.activities.PlayerActivity,01-03-2021 22:56:03,1614619563009
+553,XPlayer,video.player.videoplayer,2,ACTIVITY_PAUSED,com.inshot.xplayer.activities.PlayerActivity,01-03-2021 23:04:43,1614620083406
