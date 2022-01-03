@@ -14,7 +14,7 @@ dash-core-components==1.15.0
 dash-html-components==1.1.2
 dash-renderer==1.9.0
 dash-table==4.11.2
-dask==2.19.0
+dask==2021.10.0
 datacleaner==0.1.5
 distributed==2.19.0
 Flask==1.1.2
