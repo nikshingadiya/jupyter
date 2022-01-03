@@ -1,0 +1,44 @@
+
+
+
+1)  12 50 38 bright red 
+-
+50) 12 50 8  darker red 
+=========
+0  0  30 little darker red 
+ 
+1)  12 50 8   darker red
+-
+50) 12 50 38  bright red
+=========
+0  0  -30+G 100=70   vadhu brighter red 
+
+1)  12 50 38 bright red 
+-
+d)  0  0  30 little darker red
+========================
+    12 50 8 
+
+1)  12 50 8   darker red
+-
+d)  0  0  70  vadhu brighter red 
+============================
+    12 50 -62+G 100 = 38
+
+
+df=f1-f50
+
+if df<0:
+   df+100
+save.df
+
+3
+5
+=
+-2
+
+3
+-2
+=
+5
+
