@@ -1,61 +1,36 @@
 # jupyter notebook
-<div class='project'>
-<h1> Project </h1>
-<p>
- <ul style="list-style-type:circle;">
-  <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/MIT6.00.2x/ps2/pset2">MIT(6.00.2x) :Simulating Robots</a></li> 
- <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Data%20analysis(Kaggle)/Sales_Analysis(electronics)">Sales EDA Of El ectronics(Store)</a></li> 
- <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Project/Recommendation%20System">Movie Recommendation System</a></li> 
- <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/customer_buy_or_not">Part 1: Food Consumer Classification(jupyternb only model build)</a></li>
- <li><a href="https://github.com/nikshingadiya/dash-visualization-code/tree/master/Dash/flask_demo">Part 2: Food Consumer Classification(building end to end project)</a></li>
-</ul>
-<p>
-</div>
-<div class="data">
-	<h1> Data</h1>
-	<br>
-	<h2> “If you torture the data long enough, it will confess.” </h2>
-	<br> <a href="https://github.com/nikshingadiya/jupyter/tree/master/data"> Data
- <br>
- <img src="Image\data.jpg" >
- </a> </div>
-<br>
-<div class="Statistics">
-	<h1> Statistics </h1>
-	<h2>" Maturity is the capacity to
- endure uncertainty "</h2> <a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">Statistics 
- <br/>
- <img src="Image\statistics-review.jpg" width="300" height="300" >
- </a>
-	<br/>
-	<h3><a href="https://github.com/nikshingadiya/jupyter/tree/master/Statistics">statistical-test:</a> In this repository we are performing statistical test by <b>python libraries</b> and <b>mathematical approach.</b> </h3>
-	<ul style="list-style-type:circle;">
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb">F-test</a></li>
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb">chi-squred test</a></li>
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb">t-test</a></li>
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part1%20.ipynb">z_test_part1</a></li>
-		<li><a href="https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part2.ipynb">z_test_part2</a></li>
-	</ul>
-</div>
-<br/>
+## Project
+- [MIT(6.00.2x) :Simulating Robots](https://github.com/nikshingadiya/jupyter/tree/master/MIT6.00.2x/ps2/pset2)
+- [Sales EDA Of Electronics(Store)](https://github.com/nikshingadiya/jupyter/tree/master/Data%20analysis(Kaggle)/Sales_Analysis(electronics))
+- [Movie Recommendation System](https://github.com/nikshingadiya/jupyter/tree/master/Project/Recommendation%20System)
+- [Part 1: Food Consumer Classification(jupyternb only model build)](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/customer_buy_or_not)
+- [Part 2: Food Consumer Classification(building end to end project)](https://github.com/nikshingadiya/dash-visualization-code/tree/master/Dash/flask_demo)
 
- <h1> Machine Learning </h1>
- <h2>" Machine learning is the next internet "</h2> 
+## Data
+"If you torture the data long enough, it will confess."
+- [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
+- ![data image](Image\data.jpg)
 
-<br>
- <a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning"> Machine Learning
- <br>
- <img src="Image\ml.jpg" >
- </a>
-<h3><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning">machine learning</a>: In this Repository contain diffrent differnet ml alogrithms  with real world  <b>Data</b> and <b>Use Cases.</b> </h3>
-<ul style="list-style-type:circle;">
-  <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Car%20Insurance(failed_model)">Car Insurance(failed_model)</a></li> 
-    <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/customer_buy_or_not">customer_buy_or_not</a></li>
-     <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Lasso%20%26%20Ridge%20Regression">Lasso & Ridge Regression</a></li>
-      <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Logistic%20Regression">Logistic Regression</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Regression">Regression</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/SVM/material_nb">SVM/material_nb</a></li>
-       <li><a href="https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/all_example_ml(Michingan)">all_example_ml(Michingan)</a></li>
-       
-</ul>
- </div>
+## Statistics
+"Maturity is the capacity to endure uncertainty."
+- [Statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
+- ![statistics image](Image\statistics-review.jpg =500x300)
+- **statistical-test:** In this repository we are performing statistical test by `python` libraries and `mathematical approach`.
+  - [F-test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb)
+  - [chi-squred test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb)
+  - [t-test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/t-test_practice.ipynb)
+  - [z_test_part1](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part1%20.ipynb)
+  - [z_test_part2](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/z_test_part2.ipynb)
+
+## Machine Learning
+"Machine learning is the next internet."
+- [Machine Learning](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning)
+- ![ml image](Image\ml.jpg)
+- **machine learning:** In this repository contains different ML algorithms with real-world data and use cases.
+  - [Car Insurance(failed_model)](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Car%20Insurance(failed_model))
+  - [customer_buy_or_not](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/customer_buy_or_not)
+  - [Lasso & Ridge Regression](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Lasso%20%26%20Ridge%20Regression)
+  - [Logistic Regression](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Logistic%20Regression)
+  - [Regression](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Regression)
+  - [SVM/material_nb](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/SVM/material_nb)
+  - [all_example_ml(Michingan)](https://github.com
