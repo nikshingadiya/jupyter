@@ -9,12 +9,12 @@
 ## Data
 "If you torture the data long enough, it will confess."
 - [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
-- ![data image](https://github.com/nikshingadiya/jupyter/blob/master/Image/data.jpg)
+- <img src="./images/data.jpeg" >
 
 ## Statistics
 "Maturity is the capacity to endure uncertainty."
 - [Statistics](https://github.com/nikshingadiya/jupyter/tree/master/Statistics)
-- ![statistics image](https://github.com/nikshingadiya/jupyter/blob/master/Image/statistics-review.jpg=500x500)
+- <img src="images/statistics-review.jpg" width="300" height="300" >
 - **statistical-test:** In this repository we are performing statistical test by `python` libraries and `mathematical approach`.
   - [F-test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/F-test.ipynb)
   - [chi-squred test](https://github.com/nikshingadiya/jupyter/blob/master/Statistics/chi-squred%20test.ipynb)
@@ -25,7 +25,7 @@
 ## Machine Learning
 "Machine learning is the next internet."
 - [Machine Learning](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning)
-- ![ml image](https://github.com/nikshingadiya/jupyter/blob/master/Image/ml.jpg)
+- <img src="images/ml.jpg" >
 - **machine learning:** In this repository contains different ML algorithms with real-world data and use cases.
   - [Car Insurance(failed_model)](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/Car%20Insurance(failed_model))
   - [customer_buy_or_not](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning/customer_buy_or_not)
