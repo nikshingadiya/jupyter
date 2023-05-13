@@ -24,6 +24,7 @@
 
 ## Machine Learning
 "Machine learning is the next internet."
+
 - [Machine Learning](https://github.com/nikshingadiya/jupyter/tree/master/Machine%20Learning)
 - <img src="images/ml.jpg" >
 - **machine learning:** In this repository contains different ML algorithms with real-world data and use cases.
