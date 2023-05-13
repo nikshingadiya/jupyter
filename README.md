@@ -9,6 +9,8 @@
 ## Data
 "If you torture the data long enough, it will confess."
 - [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
+- 
+
 - <img src="./images/data.jpeg" >
 
 ## Statistics
