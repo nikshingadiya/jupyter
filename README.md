@@ -11,7 +11,7 @@
 - [Data](https://github.com/nikshingadiya/jupyter/tree/master/data)
 - 
 
-- <img src="./images/data.jpeg" >
+- <img src="images/data.jpeg" >
 
 ## Statistics
 "Maturity is the capacity to endure uncertainty."
