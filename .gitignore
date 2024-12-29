@@ -21,3 +21,4 @@ Web Scraping/collect_and_clean_data/WHC_html.zip
 Web Scraping/collect_and_clean_data/WHC_html.zip
 *.ipynb_checkpoints
 jupyter_venv/
+*.pth

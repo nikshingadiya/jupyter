@@ -107,3 +107,7 @@ def compute_accuracy(model, dataloader):
     return (correct / total_examples).item()
 
 print("\n", compute_accuracy(model, test_loader))
+
+torch.save(model.state_dict(), "model.pth")
+model_new=NeuralNetwork(2,2)
+model_new.load_state_dict(torch.load("model.pth", weights_only=True))
