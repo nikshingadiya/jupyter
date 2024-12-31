@@ -42,7 +42,7 @@ print("\n Sample of Tokenized output: \n", preprocessed[:30], "\n Full Token Cou
 
 
 all_words=sorted(set(preprocessed))
-
+all_words.extend(["<endoftext>","<unk>"])
 tokens={word:idx for idx,word in enumerate(all_words)}
 
 for i, item in enumerate(all_words):
